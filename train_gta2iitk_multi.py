@@ -20,6 +20,7 @@ from model.discriminator import FCDiscriminator
 from utils.loss import CrossEntropy2d
 from dataset.gta5_dataset import GTA5DataSet
 from dataset.cityscapes_dataset import cityscapesDataSet
+from dataset.cityscapes_train_dataset import cityscapestrainDataSet
 
 IMG_MEAN = np.array((104.00698793, 116.66876762, 122.67891434), dtype=np.float32)
 
@@ -31,14 +32,14 @@ DATA_DIRECTORY = './data/GTA5'
 DATA_LIST_PATH = './dataset/gta5_list/train.txt'
 IGNORE_LABEL = 255
 INPUT_SIZE = '1280,720'
-DATA_DIRECTORY_TARGET = './data/Cityscapes/data'
-DATA_LIST_PATH_TARGET = './dataset/cityscapes_list/train.txt'
+DATA_DIRECTORY_TARGET =  './data/Camera_Dataset/data'
+DATA_LIST_PATH_TARGET = './dataset/camera_list/train.txt'
 INPUT_SIZE_TARGET = '1024,512'
 LEARNING_RATE = 2.5e-4
 MOMENTUM = 0.9
 NUM_CLASSES = 19
-NUM_STEPS = 250000
-NUM_STEPS_STOP = 150000  # early stopping
+NUM_STEPS = 100000
+NUM_STEPS_STOP = 50000  # early stopping
 POWER = 0.9
 RANDOM_SEED = 1234
 RESTORE_FROM = 'http://vllab.ucmerced.edu/ytsai/CVPR18/DeepLab_resnet_pretrained_init-f81d91e8.pth'
@@ -179,15 +180,15 @@ def main():
         else:
             saved_state_dict = torch.load(args.restore_from)
 
-        new_params = model.state_dict().copy()
-        for i in saved_state_dict:
-            # Scale.layer5.conv2d_list.3.weight
-            i_parts = i.split('.')
-            # print i_parts
-            if not args.num_classes == 19 or not i_parts[1] == 'layer5':
-                new_params['.'.join(i_parts[1:])] = saved_state_dict[i]
-                # print i_parts
-        model.load_state_dict(new_params)
+#         new_params = model.state_dict().copy()
+#         for i in saved_state_dict:
+#             # Scale.layer5.conv2d_list.3.weight
+#             i_parts = i.split('.')
+#             # print i_parts
+#             if not args.num_classes == 19 or not i_parts[1] == 'layer5':
+#                 new_params['.'.join(i_parts[1:])] = saved_state_dict[i]
+#                 # print i_parts
+        model.load_state_dict(saved_state_dict)
 
     model.train()
     model.to(device)

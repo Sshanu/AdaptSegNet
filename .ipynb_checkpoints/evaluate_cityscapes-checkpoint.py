@@ -20,9 +20,10 @@ from PIL import Image
 import torch.nn as nn
 IMG_MEAN = np.array((104.00698793,116.66876762,122.67891434), dtype=np.float32)
 
-DATA_DIRECTORY = './data/Cityscapes/data'
-DATA_LIST_PATH = './dataset/cityscapes_list/val.txt'
-SAVE_PATH = './result/cityscapes'
+# DATA_DIRECTORY = './data/Cityscapes/data'
+DATA_DIRECTORY = './data/Camera_Dataset/data'
+DATA_LIST_PATH = './dataset/camera_list/train.txt'
+SAVE_PATH = './result/Camera_Dataset'
 
 IGNORE_LABEL = 255
 NUM_CLASSES = 19
@@ -110,7 +111,7 @@ def main():
                                     batch_size=1, shuffle=False, pin_memory=True)
 
     interp = nn.Upsample(size=(1024, 2048), mode='bilinear', align_corners=True)
-
+    print("len", len(testloader))
     for index, batch in enumerate(testloader):
         if index % 100 == 0:
             print('%d processd' % index)
@@ -130,7 +131,8 @@ def main():
         output_col = colorize_mask(output)
         output = Image.fromarray(output)
 
-        name = name[0].split('/')[-1]
+        name = name[0].split('/')[0]  + "/" + name[0].split('/')[-1] 
+#         name = name[0]
         output.save('%s/%s' % (args.save, name))
         output_col.save('%s/%s_color.png' % (args.save, name.split('.')[0]))
 

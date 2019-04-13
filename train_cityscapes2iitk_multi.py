@@ -20,6 +20,7 @@ from model.discriminator import FCDiscriminator
 from utils.loss import CrossEntropy2d
 from dataset.gta5_dataset import GTA5DataSet
 from dataset.cityscapes_dataset import cityscapesDataSet
+from dataset.cityscapes_train_dataset import cityscapestrainDataSet
 
 IMG_MEAN = np.array((104.00698793, 116.66876762, 122.67891434), dtype=np.float32)
 
@@ -27,18 +28,19 @@ MODEL = 'DeepLab'
 BATCH_SIZE = 1
 ITER_SIZE = 1
 NUM_WORKERS = 4
-DATA_DIRECTORY = './data/GTA5'
-DATA_LIST_PATH = './dataset/gta5_list/train.txt'
+DATA_DIRECTORY = './data/Cityscapes/data'
+DATA_LIST_PATH = './dataset/cityscapes_list/train.txt'
+DATA_LABEL_LIST_PATH = './dataset/cityscapes_list/train_label.txt'
 IGNORE_LABEL = 255
-INPUT_SIZE = '1280,720'
-DATA_DIRECTORY_TARGET = './data/Cityscapes/data'
-DATA_LIST_PATH_TARGET = './dataset/cityscapes_list/train.txt'
+INPUT_SIZE = '1024,512'
+DATA_DIRECTORY_TARGET =  './data/Camera_Dataset/data'
+DATA_LIST_PATH_TARGET = './dataset/camera_list/train.txt'
 INPUT_SIZE_TARGET = '1024,512'
 LEARNING_RATE = 2.5e-4
 MOMENTUM = 0.9
 NUM_CLASSES = 19
-NUM_STEPS = 250000
-NUM_STEPS_STOP = 150000  # early stopping
+NUM_STEPS = 50000
+NUM_STEPS_STOP = 10000  # early stopping
 POWER = 0.9
 RANDOM_SEED = 1234
 RESTORE_FROM = 'http://vllab.ucmerced.edu/ytsai/CVPR18/DeepLab_resnet_pretrained_init-f81d91e8.pth'
@@ -78,6 +80,8 @@ def get_arguments():
                         help="Path to the directory containing the source dataset.")
     parser.add_argument("--data-list", type=str, default=DATA_LIST_PATH,
                         help="Path to the file listing the images in the source dataset.")
+    parser.add_argument("--data-label-list", type=str, default=DATA_LABEL_LIST_PATH,
+                        help="Path to the file listing the label images in the source dataset.")
     parser.add_argument("--ignore-label", type=int, default=IGNORE_LABEL,
                         help="The index of the label to ignore during the training.")
     parser.add_argument("--input-size", type=str, default=INPUT_SIZE,
@@ -179,15 +183,15 @@ def main():
         else:
             saved_state_dict = torch.load(args.restore_from)
 
-        new_params = model.state_dict().copy()
-        for i in saved_state_dict:
-            # Scale.layer5.conv2d_list.3.weight
-            i_parts = i.split('.')
-            # print i_parts
-            if not args.num_classes == 19 or not i_parts[1] == 'layer5':
-                new_params['.'.join(i_parts[1:])] = saved_state_dict[i]
-                # print i_parts
-        model.load_state_dict(new_params)
+#         new_params = model.state_dict().copy()
+#         for i in saved_state_dict:
+#             # Scale.layer5.conv2d_list.3.weight
+#             i_parts = i.split('.')
+#             # print i_parts
+#             if not args.num_classes == 19 or not i_parts[1] == 'layer5':
+#                 new_params['.'.join(i_parts[1:])] = saved_state_dict[i]
+#                 # print i_parts
+        model.load_state_dict(saved_state_dict)
 
     model.train()
     model.to(device)
@@ -208,9 +212,9 @@ def main():
         os.makedirs(args.snapshot_dir)
 
     trainloader = data.DataLoader(
-        GTA5DataSet(args.data_dir, args.data_list, max_iters=args.num_steps * args.iter_size * args.batch_size,
+        cityscapestrainDataSet(args.data_dir, args.data_list, args.data_label_list, max_iters=args.num_steps * args.iter_size * args.batch_size,
                     crop_size=input_size,
-                    scale=args.random_scale, mirror=args.random_mirror, mean=IMG_MEAN),
+                    scale=args.random_scale, mirror=args.random_mirror, mean=IMG_MEAN, set=args.set),
         batch_size=args.batch_size, shuffle=True, num_workers=args.num_workers, pin_memory=True)
 
     trainloader_iter = enumerate(trainloader)
