@@ -23,7 +23,7 @@ IMG_MEAN = np.array((104.00698793,116.66876762,122.67891434), dtype=np.float32)
 # DATA_DIRECTORY = './data/Cityscapes/data'
 DATA_DIRECTORY = './data/Camera_Dataset/data'
 DATA_LIST_PATH = './dataset/camera_list/train.txt'
-SAVE_PATH = './result/Camera_Dataset'
+SAVE_PATH = './result/GTA_IITK_adapt'
 
 IGNORE_LABEL = 255
 NUM_CLASSES = 19
@@ -31,7 +31,7 @@ NUM_STEPS = 500 # Number of images in the validation set.
 RESTORE_FROM = 'http://vllab.ucmerced.edu/ytsai/CVPR18/GTA2Cityscapes_multi-ed35151c.pth'
 RESTORE_FROM_VGG = 'http://vllab.ucmerced.edu/ytsai/CVPR18/GTA2Cityscapes_vgg-ac4ac9f6.pth'
 RESTORE_FROM_ORC = 'http://vllab1.ucmerced.edu/~whung/adaptSeg/cityscapes_oracle-b7b9934.pth'
-SET = 'val'
+SET = 'train'
 
 MODEL = 'DeeplabMulti'
 
