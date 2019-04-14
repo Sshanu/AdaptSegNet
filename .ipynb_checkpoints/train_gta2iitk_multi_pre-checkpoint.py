@@ -188,7 +188,7 @@ def main():
             if not args.num_classes == 19 or not i_parts[1] == 'layer5':
                 new_params['.'.join(i_parts[1:])] = saved_state_dict[i]
                 # print i_parts
-        model.load_state_dict(saved_state_dict)
+        model.load_state_dict(new_params)
 
     model.train()
     model.to(device)

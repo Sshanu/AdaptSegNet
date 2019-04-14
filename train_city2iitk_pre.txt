@@ -1,0 +1,282 @@
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        0/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.693, loss_adv2 = 0.692 loss_D1 = 0.693 loss_D2 = 0.693
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        1/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.692, loss_adv2 = 0.690 loss_D1 = 0.693 loss_D2 = 0.693
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        2/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.691, loss_adv2 = 0.689 loss_D1 = 0.693 loss_D2 = 0.693
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        3/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.692, loss_adv2 = 0.689 loss_D1 = 0.692 loss_D2 = 0.693
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        4/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.693, loss_adv2 = 0.689 loss_D1 = 0.693 loss_D2 = 0.693
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        5/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.692, loss_adv2 = 0.689 loss_D1 = 0.692 loss_D2 = 0.692
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        6/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.691, loss_adv2 = 0.687 loss_D1 = 0.691 loss_D2 = 0.692
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        7/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.690, loss_adv2 = 0.685 loss_D1 = 0.692 loss_D2 = 0.692
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        8/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.691, loss_adv2 = 0.682 loss_D1 = 0.690 loss_D2 = 0.692
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =        9/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.695, loss_adv2 = 0.684 loss_D1 = 0.686 loss_D2 = 0.691
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       10/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.695, loss_adv2 = 0.687 loss_D1 = 0.693 loss_D2 = 0.691
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       11/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.697, loss_adv2 = 0.682 loss_D1 = 0.691 loss_D2 = 0.693
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       12/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.705, loss_adv2 = 0.695 loss_D1 = 0.687 loss_D2 = 0.689
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       13/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.705, loss_adv2 = 0.696 loss_D1 = 0.687 loss_D2 = 0.688
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       14/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.693, loss_adv2 = 0.694 loss_D1 = 0.682 loss_D2 = 0.685
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       15/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.696, loss_adv2 = 0.693 loss_D1 = 0.688 loss_D2 = 0.687
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       16/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.712, loss_adv2 = 0.687 loss_D1 = 0.687 loss_D2 = 0.695
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       17/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.731, loss_adv2 = 0.703 loss_D1 = 0.678 loss_D2 = 0.689
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       18/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.726, loss_adv2 = 0.731 loss_D1 = 0.653 loss_D2 = 0.677
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       19/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.722, loss_adv2 = 0.724 loss_D1 = 0.670 loss_D2 = 0.673
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       20/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.695, loss_adv2 = 0.696 loss_D1 = 0.665 loss_D2 = 0.673
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       21/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.698, loss_adv2 = 0.659 loss_D1 = 0.694 loss_D2 = 0.682
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       22/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.762, loss_adv2 = 0.693 loss_D1 = 0.716 loss_D2 = 0.703
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       23/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.758, loss_adv2 = 0.716 loss_D1 = 0.708 loss_D2 = 0.697
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       24/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.770, loss_adv2 = 0.786 loss_D1 = 0.691 loss_D2 = 0.678
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       25/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.732, loss_adv2 = 0.804 loss_D1 = 0.686 loss_D2 = 0.676
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       26/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.712, loss_adv2 = 0.757 loss_D1 = 0.660 loss_D2 = 0.690
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       27/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.741, loss_adv2 = 0.741 loss_D1 = 0.659 loss_D2 = 0.700
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       28/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.730, loss_adv2 = 0.735 loss_D1 = 0.661 loss_D2 = 0.667
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       29/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.668, loss_adv2 = 0.683 loss_D1 = 0.696 loss_D2 = 0.692
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       30/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.750, loss_adv2 = 0.666 loss_D1 = 0.652 loss_D2 = 0.692
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       31/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.785, loss_adv2 = 0.694 loss_D1 = 0.646 loss_D2 = 0.684
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       32/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.769, loss_adv2 = 0.721 loss_D1 = 0.655 loss_D2 = 0.664
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       33/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.791, loss_adv2 = 0.744 loss_D1 = 0.628 loss_D2 = 0.663
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       34/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.775, loss_adv2 = 0.756 loss_D1 = 0.632 loss_D2 = 0.672
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       35/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.787, loss_adv2 = 0.765 loss_D1 = 0.628 loss_D2 = 0.678
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       36/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.705, loss_adv2 = 0.758 loss_D1 = 0.704 loss_D2 = 0.681
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       37/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.746, loss_adv2 = 0.736 loss_D1 = 0.633 loss_D2 = 0.653
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       38/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.796, loss_adv2 = 0.707 loss_D1 = 0.676 loss_D2 = 0.667
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       39/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.006, loss_adv2 = 0.743 loss_D1 = 0.643 loss_D2 = 0.648
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       40/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.880, loss_adv2 = 0.689 loss_D1 = 0.652 loss_D2 = 0.704
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       41/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.825, loss_adv2 = 0.695 loss_D1 = 0.585 loss_D2 = 0.686
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       42/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.698, loss_adv2 = 0.771 loss_D1 = 0.678 loss_D2 = 0.663
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       43/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.695, loss_adv2 = 0.735 loss_D1 = 0.633 loss_D2 = 0.688
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       44/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.863, loss_adv2 = 0.825 loss_D1 = 0.619 loss_D2 = 0.659
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       45/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.023, loss_adv2 = 0.819 loss_D1 = 0.571 loss_D2 = 0.674
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       46/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.028, loss_adv2 = 0.771 loss_D1 = 0.637 loss_D2 = 0.667
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       47/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.791, loss_adv2 = 0.726 loss_D1 = 0.720 loss_D2 = 0.664
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       48/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.793, loss_adv2 = 0.754 loss_D1 = 0.629 loss_D2 = 0.644
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       49/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.680, loss_adv2 = 0.677 loss_D1 = 0.696 loss_D2 = 0.670
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       50/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.814, loss_adv2 = 0.808 loss_D1 = 0.630 loss_D2 = 0.637
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       51/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.934, loss_adv2 = 0.806 loss_D1 = 0.633 loss_D2 = 0.689
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       52/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.845, loss_adv2 = 0.717 loss_D1 = 0.704 loss_D2 = 0.697
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       53/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.010, loss_adv2 = 0.826 loss_D1 = 0.595 loss_D2 = 0.657
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       54/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.783, loss_adv2 = 0.768 loss_D1 = 0.671 loss_D2 = 0.684
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       55/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.826, loss_adv2 = 0.778 loss_D1 = 0.580 loss_D2 = 0.639
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       56/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.648, loss_adv2 = 0.699 loss_D1 = 0.712 loss_D2 = 0.684
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       57/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.789, loss_adv2 = 0.764 loss_D1 = 0.631 loss_D2 = 0.683
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       58/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.753, loss_adv2 = 0.729 loss_D1 = 0.720 loss_D2 = 0.688
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       59/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.010, loss_adv2 = 0.796 loss_D1 = 0.617 loss_D2 = 0.674
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       60/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.832, loss_adv2 = 0.719 loss_D1 = 0.652 loss_D2 = 0.679
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       61/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.834, loss_adv2 = 0.782 loss_D1 = 0.643 loss_D2 = 0.653
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       62/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.642, loss_adv2 = 0.706 loss_D1 = 0.679 loss_D2 = 0.680
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       63/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.661, loss_adv2 = 0.739 loss_D1 = 0.662 loss_D2 = 0.665
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       64/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.677, loss_adv2 = 0.766 loss_D1 = 0.667 loss_D2 = 0.699
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       65/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.892, loss_adv2 = 0.800 loss_D1 = 0.681 loss_D2 = 0.637
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       66/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.943, loss_adv2 = 0.746 loss_D1 = 0.619 loss_D2 = 0.643
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       67/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.921, loss_adv2 = 0.742 loss_D1 = 0.616 loss_D2 = 0.648
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       68/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.818, loss_adv2 = 0.690 loss_D1 = 0.630 loss_D2 = 0.642
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       69/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.783, loss_adv2 = 0.700 loss_D1 = 0.564 loss_D2 = 0.630
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       70/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.746, loss_adv2 = 0.705 loss_D1 = 0.596 loss_D2 = 0.659
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       71/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.788, loss_adv2 = 0.743 loss_D1 = 0.584 loss_D2 = 0.633
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       72/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.804, loss_adv2 = 0.792 loss_D1 = 0.638 loss_D2 = 0.687
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       73/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.963, loss_adv2 = 0.845 loss_D1 = 0.639 loss_D2 = 0.669
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       74/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.916, loss_adv2 = 0.894 loss_D1 = 0.617 loss_D2 = 0.673
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       75/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.840, loss_adv2 = 0.765 loss_D1 = 0.655 loss_D2 = 0.689
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       76/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.998, loss_adv2 = 0.829 loss_D1 = 0.608 loss_D2 = 0.658
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       77/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.798, loss_adv2 = 0.785 loss_D1 = 0.632 loss_D2 = 0.622
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       78/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.848, loss_adv2 = 0.694 loss_D1 = 0.563 loss_D2 = 0.675
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       79/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.862, loss_adv2 = 0.716 loss_D1 = 0.656 loss_D2 = 0.677
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       80/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.133, loss_adv2 = 0.933 loss_D1 = 0.593 loss_D2 = 0.617
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       81/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.826, loss_adv2 = 0.863 loss_D1 = 0.627 loss_D2 = 0.667
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       82/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.945, loss_adv2 = 0.837 loss_D1 = 0.588 loss_D2 = 0.636
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       83/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.003, loss_adv2 = 0.782 loss_D1 = 0.611 loss_D2 = 0.671
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       84/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.835, loss_adv2 = 0.705 loss_D1 = 0.642 loss_D2 = 0.667
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       85/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.804, loss_adv2 = 0.744 loss_D1 = 0.611 loss_D2 = 0.685
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       86/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.033, loss_adv2 = 0.791 loss_D1 = 0.548 loss_D2 = 0.649
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       87/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.153, loss_adv2 = 0.893 loss_D1 = 0.548 loss_D2 = 0.623
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       88/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.053, loss_adv2 = 0.890 loss_D1 = 0.543 loss_D2 = 0.646
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       89/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.830, loss_adv2 = 0.796 loss_D1 = 0.654 loss_D2 = 0.663
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       90/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.000, loss_adv2 = 0.771 loss_D1 = 0.526 loss_D2 = 0.624
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       91/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.766, loss_adv2 = 0.626 loss_D1 = 0.722 loss_D2 = 0.715
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       92/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.255, loss_adv2 = 0.762 loss_D1 = 0.592 loss_D2 = 0.639
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       93/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.075, loss_adv2 = 0.748 loss_D1 = 0.541 loss_D2 = 0.621
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       94/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.159, loss_adv2 = 0.848 loss_D1 = 0.574 loss_D2 = 0.645
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       95/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.823, loss_adv2 = 0.887 loss_D1 = 0.594 loss_D2 = 0.670
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       96/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.495, loss_adv2 = 0.877 loss_D1 = 0.735 loss_D2 = 0.656
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       97/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.103, loss_adv2 = 0.790 loss_D1 = 0.508 loss_D2 = 0.624
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       98/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.425, loss_adv2 = 0.711 loss_D1 = 0.591 loss_D2 = 0.673
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =       99/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.072, loss_adv2 = 0.673 loss_D1 = 0.772 loss_D2 = 0.698
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      100/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.080, loss_adv2 = 0.795 loss_D1 = 0.674 loss_D2 = 0.665
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      101/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.018, loss_adv2 = 0.826 loss_D1 = 0.674 loss_D2 = 0.686
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      102/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.797, loss_adv2 = 0.881 loss_D1 = 0.588 loss_D2 = 0.651
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      103/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.699, loss_adv2 = 0.842 loss_D1 = 0.577 loss_D2 = 0.636
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      104/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.642, loss_adv2 = 0.727 loss_D1 = 0.634 loss_D2 = 0.686
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      105/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.015, loss_adv2 = 0.720 loss_D1 = 0.458 loss_D2 = 0.632
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      106/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.904, loss_adv2 = 0.657 loss_D1 = 0.613 loss_D2 = 0.651
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      107/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.430, loss_adv2 = 0.694 loss_D1 = 0.590 loss_D2 = 0.638
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      108/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.177, loss_adv2 = 0.719 loss_D1 = 0.810 loss_D2 = 0.643
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      109/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.298, loss_adv2 = 0.798 loss_D1 = 0.528 loss_D2 = 0.617
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      110/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.853, loss_adv2 = 0.872 loss_D1 = 0.675 loss_D2 = 0.653
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      111/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.624, loss_adv2 = 0.890 loss_D1 = 0.684 loss_D2 = 0.650
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      112/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.620, loss_adv2 = 0.884 loss_D1 = 0.620 loss_D2 = 0.661
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      113/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.592, loss_adv2 = 0.835 loss_D1 = 0.659 loss_D2 = 0.650
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      114/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.858, loss_adv2 = 0.866 loss_D1 = 0.544 loss_D2 = 0.647
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      115/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.616, loss_adv2 = 0.683 loss_D1 = 0.710 loss_D2 = 0.682
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      116/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.017, loss_adv2 = 0.835 loss_D1 = 0.596 loss_D2 = 0.634
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      117/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.058, loss_adv2 = 0.850 loss_D1 = 0.608 loss_D2 = 0.601
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      118/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.224, loss_adv2 = 0.813 loss_D1 = 0.571 loss_D2 = 0.619
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      119/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.157, loss_adv2 = 0.833 loss_D1 = 0.632 loss_D2 = 0.633
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      120/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.791, loss_adv2 = 0.715 loss_D1 = 0.659 loss_D2 = 0.697
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      121/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.874, loss_adv2 = 0.818 loss_D1 = 0.593 loss_D2 = 0.646
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      122/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.792, loss_adv2 = 0.866 loss_D1 = 0.641 loss_D2 = 0.666
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      123/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.904, loss_adv2 = 0.874 loss_D1 = 0.570 loss_D2 = 0.651
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      124/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.898, loss_adv2 = 0.897 loss_D1 = 0.558 loss_D2 = 0.638
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      125/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.830, loss_adv2 = 0.799 loss_D1 = 0.538 loss_D2 = 0.637
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      126/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.878, loss_adv2 = 0.835 loss_D1 = 0.604 loss_D2 = 0.619
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      127/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.732, loss_adv2 = 0.747 loss_D1 = 0.587 loss_D2 = 0.628
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      128/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.559, loss_adv2 = 0.726 loss_D1 = 0.719 loss_D2 = 0.656
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      129/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.014, loss_adv2 = 0.834 loss_D1 = 0.545 loss_D2 = 0.605
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      130/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.157, loss_adv2 = 1.006 loss_D1 = 0.564 loss_D2 = 0.604
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      131/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.136, loss_adv2 = 0.999 loss_D1 = 0.595 loss_D2 = 0.642
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      132/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.157, loss_adv2 = 0.883 loss_D1 = 0.529 loss_D2 = 0.624
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      133/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.282, loss_adv2 = 0.912 loss_D1 = 0.582 loss_D2 = 0.606
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      134/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.961, loss_adv2 = 0.690 loss_D1 = 0.612 loss_D2 = 0.719
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      135/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.980, loss_adv2 = 0.821 loss_D1 = 0.522 loss_D2 = 0.638
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      136/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.761, loss_adv2 = 0.758 loss_D1 = 0.591 loss_D2 = 0.623
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      137/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.621, loss_adv2 = 0.785 loss_D1 = 0.694 loss_D2 = 0.625
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      138/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.066, loss_adv2 = 0.973 loss_D1 = 0.495 loss_D2 = 0.620
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      139/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 0.877, loss_adv2 = 0.867 loss_D1 = 0.662 loss_D2 = 0.650
+exp = ./snapshots/Cityscapes2IITK_multi_pre
+iter =      140/  100000, loss_seg1 = 0.000 loss_seg2 = 0.000 loss_adv1 = 1.271, loss_adv2 = 0.892 loss_D1 = 0.587 loss_D2 = 0.665
