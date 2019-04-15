@@ -10941,3 +10941,1731 @@ exp = ./snapshots/gta2iitk_city_multi_pre
 iter =     5469/  250000, loss_seg1 = 0.267 loss_seg2 = 0.262 loss_adv1 = 3.868, loss_adv2 = 2.757 loss_D1 = 0.223 loss_D2 = 0.317
 exp = ./snapshots/gta2iitk_city_multi_pre
 iter =     5470/  250000, loss_seg1 = 0.851 loss_seg2 = 0.460 loss_adv1 = 3.941, loss_adv2 = 2.669 loss_D1 = 0.137 loss_D2 = 0.224
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5471/  250000, loss_seg1 = 0.241 loss_seg2 = 0.193 loss_adv1 = 4.667, loss_adv2 = 2.811 loss_D1 = 0.141 loss_D2 = 0.288
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5472/  250000, loss_seg1 = 0.511 loss_seg2 = 0.337 loss_adv1 = 3.904, loss_adv2 = 2.836 loss_D1 = 0.141 loss_D2 = 0.259
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5473/  250000, loss_seg1 = 0.340 loss_seg2 = 0.206 loss_adv1 = 4.639, loss_adv2 = 2.872 loss_D1 = 0.138 loss_D2 = 0.319
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5474/  250000, loss_seg1 = 0.360 loss_seg2 = 0.251 loss_adv1 = 2.209, loss_adv2 = 2.057 loss_D1 = 0.318 loss_D2 = 0.343
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5475/  250000, loss_seg1 = 0.329 loss_seg2 = 0.173 loss_adv1 = 3.018, loss_adv2 = 2.651 loss_D1 = 0.252 loss_D2 = 0.341
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5476/  250000, loss_seg1 = 0.265 loss_seg2 = 0.208 loss_adv1 = 2.558, loss_adv2 = 2.880 loss_D1 = 0.238 loss_D2 = 0.289
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5477/  250000, loss_seg1 = 0.167 loss_seg2 = 0.119 loss_adv1 = 4.514, loss_adv2 = 3.795 loss_D1 = 0.148 loss_D2 = 0.260
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5478/  250000, loss_seg1 = 0.197 loss_seg2 = 0.136 loss_adv1 = 4.467, loss_adv2 = 3.547 loss_D1 = 0.155 loss_D2 = 0.243
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5479/  250000, loss_seg1 = 0.170 loss_seg2 = 0.117 loss_adv1 = 2.556, loss_adv2 = 2.762 loss_D1 = 0.219 loss_D2 = 0.289
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5480/  250000, loss_seg1 = 0.343 loss_seg2 = 0.194 loss_adv1 = 3.132, loss_adv2 = 2.726 loss_D1 = 0.220 loss_D2 = 0.356
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5481/  250000, loss_seg1 = 0.291 loss_seg2 = 0.234 loss_adv1 = 3.150, loss_adv2 = 3.005 loss_D1 = 0.210 loss_D2 = 0.284
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5482/  250000, loss_seg1 = 0.669 loss_seg2 = 0.274 loss_adv1 = 3.520, loss_adv2 = 2.512 loss_D1 = 0.334 loss_D2 = 0.396
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5483/  250000, loss_seg1 = 0.253 loss_seg2 = 0.188 loss_adv1 = 3.538, loss_adv2 = 2.651 loss_D1 = 0.136 loss_D2 = 0.265
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5484/  250000, loss_seg1 = 0.241 loss_seg2 = 0.170 loss_adv1 = 2.189, loss_adv2 = 2.379 loss_D1 = 0.426 loss_D2 = 0.418
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5485/  250000, loss_seg1 = 1.428 loss_seg2 = 1.013 loss_adv1 = 2.355, loss_adv2 = 2.167 loss_D1 = 0.836 loss_D2 = 0.851
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5486/  250000, loss_seg1 = 0.215 loss_seg2 = 0.160 loss_adv1 = 3.614, loss_adv2 = 3.970 loss_D1 = 0.183 loss_D2 = 0.255
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5487/  250000, loss_seg1 = 0.353 loss_seg2 = 0.391 loss_adv1 = 3.561, loss_adv2 = 3.371 loss_D1 = 0.144 loss_D2 = 0.250
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5488/  250000, loss_seg1 = 0.974 loss_seg2 = 0.549 loss_adv1 = 1.991, loss_adv2 = 2.247 loss_D1 = 0.527 loss_D2 = 0.408
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5489/  250000, loss_seg1 = 0.325 loss_seg2 = 0.205 loss_adv1 = 2.920, loss_adv2 = 2.608 loss_D1 = 0.269 loss_D2 = 0.316
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5490/  250000, loss_seg1 = 0.274 loss_seg2 = 0.154 loss_adv1 = 3.935, loss_adv2 = 3.563 loss_D1 = 0.200 loss_D2 = 0.225
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5491/  250000, loss_seg1 = 0.218 loss_seg2 = 0.123 loss_adv1 = 3.469, loss_adv2 = 2.099 loss_D1 = 0.183 loss_D2 = 0.332
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5492/  250000, loss_seg1 = 0.301 loss_seg2 = 0.195 loss_adv1 = 3.722, loss_adv2 = 2.599 loss_D1 = 0.191 loss_D2 = 0.272
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5493/  250000, loss_seg1 = 0.225 loss_seg2 = 0.146 loss_adv1 = 3.491, loss_adv2 = 1.924 loss_D1 = 0.147 loss_D2 = 0.439
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5494/  250000, loss_seg1 = 0.476 loss_seg2 = 0.328 loss_adv1 = 4.262, loss_adv2 = 3.524 loss_D1 = 0.592 loss_D2 = 0.296
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5495/  250000, loss_seg1 = 0.610 loss_seg2 = 0.420 loss_adv1 = 4.474, loss_adv2 = 3.687 loss_D1 = 0.179 loss_D2 = 0.189
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5496/  250000, loss_seg1 = 0.505 loss_seg2 = 0.284 loss_adv1 = 4.459, loss_adv2 = 3.440 loss_D1 = 0.655 loss_D2 = 0.522
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5497/  250000, loss_seg1 = 0.634 loss_seg2 = 0.300 loss_adv1 = 2.694, loss_adv2 = 2.143 loss_D1 = 0.235 loss_D2 = 0.318
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5498/  250000, loss_seg1 = 0.397 loss_seg2 = 0.299 loss_adv1 = 2.840, loss_adv2 = 2.107 loss_D1 = 0.361 loss_D2 = 0.354
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5499/  250000, loss_seg1 = 0.984 loss_seg2 = 0.471 loss_adv1 = 2.778, loss_adv2 = 2.227 loss_D1 = 0.220 loss_D2 = 0.278
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5500/  250000, loss_seg1 = 0.580 loss_seg2 = 0.468 loss_adv1 = 3.084, loss_adv2 = 2.929 loss_D1 = 0.243 loss_D2 = 0.247
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5501/  250000, loss_seg1 = 0.991 loss_seg2 = 0.693 loss_adv1 = 2.404, loss_adv2 = 2.152 loss_D1 = 0.581 loss_D2 = 0.735
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5502/  250000, loss_seg1 = 0.237 loss_seg2 = 0.193 loss_adv1 = 2.085, loss_adv2 = 1.770 loss_D1 = 0.417 loss_D2 = 0.389
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5503/  250000, loss_seg1 = 0.336 loss_seg2 = 0.298 loss_adv1 = 1.564, loss_adv2 = 2.063 loss_D1 = 0.503 loss_D2 = 0.402
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5504/  250000, loss_seg1 = 0.131 loss_seg2 = 0.087 loss_adv1 = 1.485, loss_adv2 = 2.070 loss_D1 = 0.466 loss_D2 = 0.363
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5505/  250000, loss_seg1 = 0.162 loss_seg2 = 0.117 loss_adv1 = 1.589, loss_adv2 = 2.054 loss_D1 = 0.467 loss_D2 = 0.386
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5506/  250000, loss_seg1 = 0.160 loss_seg2 = 0.116 loss_adv1 = 1.835, loss_adv2 = 2.595 loss_D1 = 0.343 loss_D2 = 0.354
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5507/  250000, loss_seg1 = 0.304 loss_seg2 = 0.197 loss_adv1 = 1.432, loss_adv2 = 2.048 loss_D1 = 0.440 loss_D2 = 0.341
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5508/  250000, loss_seg1 = 0.424 loss_seg2 = 0.175 loss_adv1 = 1.753, loss_adv2 = 2.280 loss_D1 = 0.442 loss_D2 = 0.378
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5509/  250000, loss_seg1 = 0.909 loss_seg2 = 0.260 loss_adv1 = 2.385, loss_adv2 = 3.007 loss_D1 = 0.478 loss_D2 = 0.350
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5510/  250000, loss_seg1 = 0.968 loss_seg2 = 0.336 loss_adv1 = 1.913, loss_adv2 = 2.581 loss_D1 = 0.573 loss_D2 = 0.465
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5511/  250000, loss_seg1 = 0.216 loss_seg2 = 0.128 loss_adv1 = 1.479, loss_adv2 = 2.522 loss_D1 = 0.468 loss_D2 = 0.345
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5512/  250000, loss_seg1 = 0.385 loss_seg2 = 0.570 loss_adv1 = 2.872, loss_adv2 = 3.165 loss_D1 = 0.267 loss_D2 = 0.375
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5513/  250000, loss_seg1 = 0.474 loss_seg2 = 0.263 loss_adv1 = 2.963, loss_adv2 = 3.006 loss_D1 = 0.315 loss_D2 = 0.293
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5514/  250000, loss_seg1 = 0.262 loss_seg2 = 0.172 loss_adv1 = 2.329, loss_adv2 = 2.755 loss_D1 = 0.376 loss_D2 = 0.330
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5515/  250000, loss_seg1 = 0.199 loss_seg2 = 0.149 loss_adv1 = 2.752, loss_adv2 = 2.609 loss_D1 = 0.260 loss_D2 = 0.331
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5516/  250000, loss_seg1 = 0.403 loss_seg2 = 0.300 loss_adv1 = 2.976, loss_adv2 = 2.708 loss_D1 = 0.412 loss_D2 = 0.423
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5517/  250000, loss_seg1 = 0.328 loss_seg2 = 0.229 loss_adv1 = 2.964, loss_adv2 = 2.600 loss_D1 = 0.268 loss_D2 = 0.278
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5518/  250000, loss_seg1 = 0.377 loss_seg2 = 0.354 loss_adv1 = 2.548, loss_adv2 = 1.862 loss_D1 = 0.215 loss_D2 = 0.436
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5519/  250000, loss_seg1 = 0.448 loss_seg2 = 0.385 loss_adv1 = 3.447, loss_adv2 = 3.020 loss_D1 = 0.252 loss_D2 = 0.303
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5520/  250000, loss_seg1 = 0.225 loss_seg2 = 0.270 loss_adv1 = 2.822, loss_adv2 = 2.512 loss_D1 = 0.257 loss_D2 = 0.357
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5521/  250000, loss_seg1 = 0.202 loss_seg2 = 0.219 loss_adv1 = 2.656, loss_adv2 = 2.292 loss_D1 = 0.303 loss_D2 = 0.364
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5522/  250000, loss_seg1 = 0.648 loss_seg2 = 0.425 loss_adv1 = 2.655, loss_adv2 = 2.976 loss_D1 = 0.427 loss_D2 = 0.405
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5523/  250000, loss_seg1 = 0.432 loss_seg2 = 0.322 loss_adv1 = 3.047, loss_adv2 = 2.616 loss_D1 = 0.283 loss_D2 = 0.297
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5524/  250000, loss_seg1 = 0.220 loss_seg2 = 0.149 loss_adv1 = 2.673, loss_adv2 = 2.021 loss_D1 = 0.278 loss_D2 = 0.370
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5525/  250000, loss_seg1 = 0.429 loss_seg2 = 0.327 loss_adv1 = 3.468, loss_adv2 = 3.369 loss_D1 = 0.173 loss_D2 = 0.248
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5526/  250000, loss_seg1 = 0.472 loss_seg2 = 0.154 loss_adv1 = 2.912, loss_adv2 = 2.021 loss_D1 = 0.289 loss_D2 = 0.412
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5527/  250000, loss_seg1 = 0.288 loss_seg2 = 0.165 loss_adv1 = 2.540, loss_adv2 = 2.014 loss_D1 = 0.266 loss_D2 = 0.375
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5528/  250000, loss_seg1 = 0.520 loss_seg2 = 0.191 loss_adv1 = 3.143, loss_adv2 = 2.420 loss_D1 = 0.299 loss_D2 = 0.450
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5529/  250000, loss_seg1 = 0.189 loss_seg2 = 0.121 loss_adv1 = 2.392, loss_adv2 = 2.469 loss_D1 = 0.258 loss_D2 = 0.343
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5530/  250000, loss_seg1 = 0.190 loss_seg2 = 0.139 loss_adv1 = 2.548, loss_adv2 = 2.409 loss_D1 = 0.250 loss_D2 = 0.310
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5531/  250000, loss_seg1 = 0.312 loss_seg2 = 0.206 loss_adv1 = 3.834, loss_adv2 = 3.189 loss_D1 = 0.191 loss_D2 = 0.331
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5532/  250000, loss_seg1 = 0.658 loss_seg2 = 0.621 loss_adv1 = 3.696, loss_adv2 = 2.458 loss_D1 = 0.250 loss_D2 = 0.588
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5533/  250000, loss_seg1 = 0.259 loss_seg2 = 0.174 loss_adv1 = 2.297, loss_adv2 = 2.457 loss_D1 = 0.285 loss_D2 = 0.320
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5534/  250000, loss_seg1 = 0.605 loss_seg2 = 0.533 loss_adv1 = 4.862, loss_adv2 = 3.729 loss_D1 = 0.233 loss_D2 = 0.221
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5535/  250000, loss_seg1 = 0.503 loss_seg2 = 0.405 loss_adv1 = 2.677, loss_adv2 = 2.274 loss_D1 = 0.361 loss_D2 = 0.455
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5536/  250000, loss_seg1 = 0.142 loss_seg2 = 0.120 loss_adv1 = 3.722, loss_adv2 = 3.041 loss_D1 = 0.212 loss_D2 = 0.260
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5537/  250000, loss_seg1 = 0.385 loss_seg2 = 0.215 loss_adv1 = 2.770, loss_adv2 = 2.328 loss_D1 = 0.330 loss_D2 = 0.395
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5538/  250000, loss_seg1 = 0.260 loss_seg2 = 0.170 loss_adv1 = 2.459, loss_adv2 = 2.631 loss_D1 = 0.291 loss_D2 = 0.325
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5539/  250000, loss_seg1 = 0.248 loss_seg2 = 0.213 loss_adv1 = 2.476, loss_adv2 = 2.143 loss_D1 = 0.231 loss_D2 = 0.287
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5540/  250000, loss_seg1 = 0.212 loss_seg2 = 0.118 loss_adv1 = 2.244, loss_adv2 = 2.006 loss_D1 = 0.307 loss_D2 = 0.396
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5541/  250000, loss_seg1 = 0.345 loss_seg2 = 0.262 loss_adv1 = 2.684, loss_adv2 = 2.107 loss_D1 = 0.203 loss_D2 = 0.369
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5542/  250000, loss_seg1 = 0.185 loss_seg2 = 0.153 loss_adv1 = 3.117, loss_adv2 = 3.101 loss_D1 = 0.327 loss_D2 = 0.297
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5543/  250000, loss_seg1 = 0.215 loss_seg2 = 0.158 loss_adv1 = 3.104, loss_adv2 = 2.418 loss_D1 = 0.255 loss_D2 = 0.288
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5544/  250000, loss_seg1 = 0.232 loss_seg2 = 0.173 loss_adv1 = 2.191, loss_adv2 = 2.246 loss_D1 = 0.398 loss_D2 = 0.388
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5545/  250000, loss_seg1 = 0.283 loss_seg2 = 0.180 loss_adv1 = 3.156, loss_adv2 = 3.215 loss_D1 = 0.338 loss_D2 = 0.330
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5546/  250000, loss_seg1 = 0.131 loss_seg2 = 0.109 loss_adv1 = 2.666, loss_adv2 = 2.422 loss_D1 = 0.341 loss_D2 = 0.253
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5547/  250000, loss_seg1 = 1.114 loss_seg2 = 0.328 loss_adv1 = 2.828, loss_adv2 = 2.306 loss_D1 = 0.298 loss_D2 = 0.359
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5548/  250000, loss_seg1 = 0.345 loss_seg2 = 0.206 loss_adv1 = 4.848, loss_adv2 = 3.371 loss_D1 = 0.181 loss_D2 = 0.289
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5549/  250000, loss_seg1 = 0.580 loss_seg2 = 0.466 loss_adv1 = 3.915, loss_adv2 = 2.742 loss_D1 = 0.378 loss_D2 = 0.342
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5550/  250000, loss_seg1 = 0.232 loss_seg2 = 0.180 loss_adv1 = 5.143, loss_adv2 = 2.999 loss_D1 = 0.169 loss_D2 = 0.237
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5551/  250000, loss_seg1 = 1.091 loss_seg2 = 0.545 loss_adv1 = 3.642, loss_adv2 = 2.253 loss_D1 = 1.218 loss_D2 = 0.666
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5552/  250000, loss_seg1 = 1.092 loss_seg2 = 0.834 loss_adv1 = 2.977, loss_adv2 = 2.666 loss_D1 = 0.484 loss_D2 = 0.363
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5553/  250000, loss_seg1 = 0.164 loss_seg2 = 0.154 loss_adv1 = 3.054, loss_adv2 = 2.634 loss_D1 = 0.203 loss_D2 = 0.225
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5554/  250000, loss_seg1 = 0.304 loss_seg2 = 0.241 loss_adv1 = 3.180, loss_adv2 = 2.308 loss_D1 = 0.234 loss_D2 = 0.280
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5555/  250000, loss_seg1 = 0.434 loss_seg2 = 0.274 loss_adv1 = 2.949, loss_adv2 = 2.308 loss_D1 = 0.276 loss_D2 = 0.280
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5556/  250000, loss_seg1 = 1.373 loss_seg2 = 0.943 loss_adv1 = 4.288, loss_adv2 = 2.519 loss_D1 = 0.125 loss_D2 = 0.334
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5557/  250000, loss_seg1 = 0.425 loss_seg2 = 0.227 loss_adv1 = 3.998, loss_adv2 = 1.477 loss_D1 = 0.134 loss_D2 = 0.494
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5558/  250000, loss_seg1 = 0.275 loss_seg2 = 0.203 loss_adv1 = 3.367, loss_adv2 = 1.930 loss_D1 = 0.171 loss_D2 = 0.355
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5559/  250000, loss_seg1 = 0.529 loss_seg2 = 0.329 loss_adv1 = 1.911, loss_adv2 = 2.166 loss_D1 = 0.487 loss_D2 = 0.330
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5560/  250000, loss_seg1 = 0.342 loss_seg2 = 0.191 loss_adv1 = 3.885, loss_adv2 = 3.021 loss_D1 = 0.207 loss_D2 = 0.297
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5561/  250000, loss_seg1 = 1.440 loss_seg2 = 0.749 loss_adv1 = 2.020, loss_adv2 = 1.932 loss_D1 = 0.636 loss_D2 = 0.675
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5562/  250000, loss_seg1 = 0.385 loss_seg2 = 0.140 loss_adv1 = 2.903, loss_adv2 = 3.102 loss_D1 = 0.228 loss_D2 = 0.334
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5563/  250000, loss_seg1 = 0.593 loss_seg2 = 0.253 loss_adv1 = 1.968, loss_adv2 = 2.930 loss_D1 = 0.296 loss_D2 = 0.254
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5564/  250000, loss_seg1 = 0.408 loss_seg2 = 0.170 loss_adv1 = 2.247, loss_adv2 = 3.646 loss_D1 = 0.364 loss_D2 = 0.371
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5565/  250000, loss_seg1 = 0.761 loss_seg2 = 0.362 loss_adv1 = 2.500, loss_adv2 = 3.733 loss_D1 = 0.328 loss_D2 = 0.344
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5566/  250000, loss_seg1 = 0.385 loss_seg2 = 0.294 loss_adv1 = 3.394, loss_adv2 = 3.317 loss_D1 = 0.421 loss_D2 = 0.365
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5567/  250000, loss_seg1 = 0.481 loss_seg2 = 0.308 loss_adv1 = 3.292, loss_adv2 = 3.787 loss_D1 = 0.372 loss_D2 = 0.255
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5568/  250000, loss_seg1 = 0.399 loss_seg2 = 0.250 loss_adv1 = 2.823, loss_adv2 = 2.124 loss_D1 = 0.234 loss_D2 = 0.300
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5569/  250000, loss_seg1 = 0.953 loss_seg2 = 0.510 loss_adv1 = 2.684, loss_adv2 = 1.780 loss_D1 = 0.397 loss_D2 = 0.340
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5570/  250000, loss_seg1 = 0.261 loss_seg2 = 0.202 loss_adv1 = 2.653, loss_adv2 = 2.239 loss_D1 = 0.261 loss_D2 = 0.343
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5571/  250000, loss_seg1 = 0.258 loss_seg2 = 0.178 loss_adv1 = 3.317, loss_adv2 = 2.266 loss_D1 = 0.161 loss_D2 = 0.271
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5572/  250000, loss_seg1 = 0.419 loss_seg2 = 0.157 loss_adv1 = 3.214, loss_adv2 = 1.758 loss_D1 = 0.291 loss_D2 = 0.427
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5573/  250000, loss_seg1 = 0.873 loss_seg2 = 0.450 loss_adv1 = 2.879, loss_adv2 = 2.510 loss_D1 = 0.254 loss_D2 = 0.220
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5574/  250000, loss_seg1 = 0.158 loss_seg2 = 0.134 loss_adv1 = 2.903, loss_adv2 = 1.918 loss_D1 = 0.225 loss_D2 = 0.406
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5575/  250000, loss_seg1 = 0.597 loss_seg2 = 0.376 loss_adv1 = 3.310, loss_adv2 = 2.738 loss_D1 = 0.278 loss_D2 = 0.418
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5576/  250000, loss_seg1 = 0.152 loss_seg2 = 0.110 loss_adv1 = 3.532, loss_adv2 = 3.221 loss_D1 = 0.162 loss_D2 = 0.210
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5577/  250000, loss_seg1 = 0.283 loss_seg2 = 0.191 loss_adv1 = 3.619, loss_adv2 = 3.472 loss_D1 = 0.171 loss_D2 = 0.188
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5578/  250000, loss_seg1 = 0.316 loss_seg2 = 0.237 loss_adv1 = 2.414, loss_adv2 = 2.901 loss_D1 = 0.370 loss_D2 = 0.323
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5579/  250000, loss_seg1 = 0.214 loss_seg2 = 0.154 loss_adv1 = 1.922, loss_adv2 = 2.505 loss_D1 = 0.324 loss_D2 = 0.392
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5580/  250000, loss_seg1 = 0.323 loss_seg2 = 0.169 loss_adv1 = 3.601, loss_adv2 = 2.704 loss_D1 = 0.199 loss_D2 = 0.464
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5581/  250000, loss_seg1 = 0.207 loss_seg2 = 0.183 loss_adv1 = 4.583, loss_adv2 = 4.379 loss_D1 = 0.162 loss_D2 = 0.215
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5582/  250000, loss_seg1 = 0.206 loss_seg2 = 0.134 loss_adv1 = 4.983, loss_adv2 = 4.378 loss_D1 = 0.109 loss_D2 = 0.202
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5583/  250000, loss_seg1 = 0.223 loss_seg2 = 0.189 loss_adv1 = 4.783, loss_adv2 = 4.634 loss_D1 = 0.095 loss_D2 = 0.180
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5584/  250000, loss_seg1 = 0.384 loss_seg2 = 0.238 loss_adv1 = 2.360, loss_adv2 = 2.868 loss_D1 = 0.345 loss_D2 = 0.366
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5585/  250000, loss_seg1 = 0.402 loss_seg2 = 0.267 loss_adv1 = 4.192, loss_adv2 = 4.218 loss_D1 = 0.150 loss_D2 = 0.264
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5586/  250000, loss_seg1 = 0.370 loss_seg2 = 0.146 loss_adv1 = 4.989, loss_adv2 = 4.283 loss_D1 = 0.241 loss_D2 = 0.163
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5587/  250000, loss_seg1 = 0.168 loss_seg2 = 0.130 loss_adv1 = 3.475, loss_adv2 = 3.730 loss_D1 = 0.192 loss_D2 = 0.161
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5588/  250000, loss_seg1 = 0.348 loss_seg2 = 0.272 loss_adv1 = 3.547, loss_adv2 = 2.270 loss_D1 = 0.181 loss_D2 = 0.469
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5589/  250000, loss_seg1 = 0.203 loss_seg2 = 0.157 loss_adv1 = 3.276, loss_adv2 = 2.535 loss_D1 = 0.172 loss_D2 = 0.352
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5590/  250000, loss_seg1 = 0.139 loss_seg2 = 0.117 loss_adv1 = 3.101, loss_adv2 = 3.569 loss_D1 = 0.216 loss_D2 = 0.210
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5591/  250000, loss_seg1 = 0.470 loss_seg2 = 0.405 loss_adv1 = 3.461, loss_adv2 = 2.430 loss_D1 = 0.289 loss_D2 = 0.455
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5592/  250000, loss_seg1 = 0.309 loss_seg2 = 0.287 loss_adv1 = 3.463, loss_adv2 = 2.708 loss_D1 = 0.188 loss_D2 = 0.389
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5593/  250000, loss_seg1 = 0.168 loss_seg2 = 0.138 loss_adv1 = 3.465, loss_adv2 = 2.966 loss_D1 = 0.186 loss_D2 = 0.314
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5594/  250000, loss_seg1 = 0.500 loss_seg2 = 0.457 loss_adv1 = 3.209, loss_adv2 = 3.628 loss_D1 = 0.565 loss_D2 = 0.517
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5595/  250000, loss_seg1 = 0.286 loss_seg2 = 0.207 loss_adv1 = 3.080, loss_adv2 = 2.617 loss_D1 = 0.293 loss_D2 = 0.331
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5596/  250000, loss_seg1 = 0.563 loss_seg2 = 0.392 loss_adv1 = 3.251, loss_adv2 = 3.458 loss_D1 = 0.256 loss_D2 = 0.277
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5597/  250000, loss_seg1 = 0.258 loss_seg2 = 0.267 loss_adv1 = 3.656, loss_adv2 = 2.790 loss_D1 = 0.161 loss_D2 = 0.300
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5598/  250000, loss_seg1 = 0.157 loss_seg2 = 0.128 loss_adv1 = 3.761, loss_adv2 = 2.875 loss_D1 = 0.183 loss_D2 = 0.264
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5599/  250000, loss_seg1 = 1.053 loss_seg2 = 0.708 loss_adv1 = 3.786, loss_adv2 = 2.529 loss_D1 = 0.577 loss_D2 = 0.629
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5600/  250000, loss_seg1 = 0.327 loss_seg2 = 0.256 loss_adv1 = 3.824, loss_adv2 = 2.961 loss_D1 = 0.199 loss_D2 = 0.281
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5601/  250000, loss_seg1 = 0.139 loss_seg2 = 0.117 loss_adv1 = 5.717, loss_adv2 = 3.999 loss_D1 = 0.126 loss_D2 = 0.179
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5602/  250000, loss_seg1 = 0.243 loss_seg2 = 0.224 loss_adv1 = 5.591, loss_adv2 = 3.739 loss_D1 = 0.169 loss_D2 = 0.249
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5603/  250000, loss_seg1 = 0.320 loss_seg2 = 0.158 loss_adv1 = 3.570, loss_adv2 = 2.782 loss_D1 = 0.198 loss_D2 = 0.336
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5604/  250000, loss_seg1 = 0.209 loss_seg2 = 0.114 loss_adv1 = 3.677, loss_adv2 = 2.539 loss_D1 = 0.181 loss_D2 = 0.242
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5605/  250000, loss_seg1 = 0.287 loss_seg2 = 0.210 loss_adv1 = 4.018, loss_adv2 = 2.549 loss_D1 = 0.136 loss_D2 = 0.298
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5606/  250000, loss_seg1 = 0.509 loss_seg2 = 0.298 loss_adv1 = 3.257, loss_adv2 = 2.485 loss_D1 = 0.166 loss_D2 = 0.232
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5607/  250000, loss_seg1 = 1.079 loss_seg2 = 0.642 loss_adv1 = 4.550, loss_adv2 = 2.686 loss_D1 = 0.300 loss_D2 = 0.447
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5608/  250000, loss_seg1 = 0.333 loss_seg2 = 0.241 loss_adv1 = 3.374, loss_adv2 = 2.440 loss_D1 = 0.181 loss_D2 = 0.300
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5609/  250000, loss_seg1 = 0.169 loss_seg2 = 0.119 loss_adv1 = 3.139, loss_adv2 = 2.502 loss_D1 = 0.211 loss_D2 = 0.286
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5610/  250000, loss_seg1 = 0.669 loss_seg2 = 0.449 loss_adv1 = 3.799, loss_adv2 = 2.311 loss_D1 = 0.435 loss_D2 = 0.436
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5611/  250000, loss_seg1 = 0.380 loss_seg2 = 0.304 loss_adv1 = 3.137, loss_adv2 = 2.549 loss_D1 = 0.211 loss_D2 = 0.327
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5612/  250000, loss_seg1 = 0.263 loss_seg2 = 0.272 loss_adv1 = 3.419, loss_adv2 = 3.247 loss_D1 = 0.127 loss_D2 = 0.249
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5613/  250000, loss_seg1 = 0.194 loss_seg2 = 0.154 loss_adv1 = 4.135, loss_adv2 = 2.525 loss_D1 = 0.151 loss_D2 = 0.326
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5614/  250000, loss_seg1 = 0.149 loss_seg2 = 0.103 loss_adv1 = 2.593, loss_adv2 = 2.512 loss_D1 = 0.273 loss_D2 = 0.306
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5615/  250000, loss_seg1 = 0.216 loss_seg2 = 0.138 loss_adv1 = 3.051, loss_adv2 = 3.617 loss_D1 = 0.244 loss_D2 = 0.263
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5616/  250000, loss_seg1 = 0.279 loss_seg2 = 0.222 loss_adv1 = 5.142, loss_adv2 = 2.794 loss_D1 = 0.090 loss_D2 = 0.285
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5617/  250000, loss_seg1 = 0.217 loss_seg2 = 0.173 loss_adv1 = 3.438, loss_adv2 = 2.549 loss_D1 = 0.185 loss_D2 = 0.375
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5618/  250000, loss_seg1 = 0.768 loss_seg2 = 0.438 loss_adv1 = 5.097, loss_adv2 = 2.963 loss_D1 = 0.358 loss_D2 = 0.347
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5619/  250000, loss_seg1 = 0.185 loss_seg2 = 0.157 loss_adv1 = 3.707, loss_adv2 = 2.048 loss_D1 = 0.118 loss_D2 = 0.389
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5620/  250000, loss_seg1 = 0.260 loss_seg2 = 0.229 loss_adv1 = 3.527, loss_adv2 = 2.052 loss_D1 = 0.232 loss_D2 = 0.482
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5621/  250000, loss_seg1 = 0.684 loss_seg2 = 0.491 loss_adv1 = 3.394, loss_adv2 = 3.396 loss_D1 = 0.352 loss_D2 = 0.488
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5622/  250000, loss_seg1 = 0.325 loss_seg2 = 0.249 loss_adv1 = 4.875, loss_adv2 = 3.002 loss_D1 = 0.146 loss_D2 = 0.329
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5623/  250000, loss_seg1 = 0.252 loss_seg2 = 0.183 loss_adv1 = 4.841, loss_adv2 = 3.318 loss_D1 = 0.087 loss_D2 = 0.200
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5624/  250000, loss_seg1 = 0.298 loss_seg2 = 0.214 loss_adv1 = 2.534, loss_adv2 = 2.137 loss_D1 = 0.254 loss_D2 = 0.352
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5625/  250000, loss_seg1 = 0.267 loss_seg2 = 0.231 loss_adv1 = 2.133, loss_adv2 = 2.505 loss_D1 = 0.316 loss_D2 = 0.305
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5626/  250000, loss_seg1 = 0.166 loss_seg2 = 0.134 loss_adv1 = 4.317, loss_adv2 = 1.967 loss_D1 = 0.133 loss_D2 = 0.425
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5627/  250000, loss_seg1 = 0.201 loss_seg2 = 0.147 loss_adv1 = 2.443, loss_adv2 = 2.188 loss_D1 = 0.245 loss_D2 = 0.322
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5628/  250000, loss_seg1 = 0.430 loss_seg2 = 0.262 loss_adv1 = 4.088, loss_adv2 = 2.178 loss_D1 = 0.112 loss_D2 = 0.499
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5629/  250000, loss_seg1 = 0.232 loss_seg2 = 0.171 loss_adv1 = 2.382, loss_adv2 = 2.729 loss_D1 = 0.216 loss_D2 = 0.266
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5630/  250000, loss_seg1 = 0.317 loss_seg2 = 0.219 loss_adv1 = 4.356, loss_adv2 = 2.479 loss_D1 = 0.180 loss_D2 = 0.364
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5631/  250000, loss_seg1 = 0.381 loss_seg2 = 0.252 loss_adv1 = 3.578, loss_adv2 = 2.727 loss_D1 = 0.177 loss_D2 = 0.338
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5632/  250000, loss_seg1 = 0.263 loss_seg2 = 0.180 loss_adv1 = 3.163, loss_adv2 = 2.432 loss_D1 = 0.224 loss_D2 = 0.347
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5633/  250000, loss_seg1 = 0.291 loss_seg2 = 0.223 loss_adv1 = 5.003, loss_adv2 = 2.649 loss_D1 = 0.269 loss_D2 = 0.358
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5634/  250000, loss_seg1 = 0.226 loss_seg2 = 0.177 loss_adv1 = 5.220, loss_adv2 = 4.531 loss_D1 = 0.242 loss_D2 = 0.290
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5635/  250000, loss_seg1 = 0.202 loss_seg2 = 0.167 loss_adv1 = 4.932, loss_adv2 = 2.591 loss_D1 = 0.058 loss_D2 = 0.340
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5636/  250000, loss_seg1 = 0.123 loss_seg2 = 0.092 loss_adv1 = 3.346, loss_adv2 = 2.360 loss_D1 = 0.199 loss_D2 = 0.330
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5637/  250000, loss_seg1 = 0.128 loss_seg2 = 0.097 loss_adv1 = 6.560, loss_adv2 = 3.913 loss_D1 = 0.044 loss_D2 = 0.314
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5638/  250000, loss_seg1 = 0.320 loss_seg2 = 0.254 loss_adv1 = 3.825, loss_adv2 = 2.511 loss_D1 = 0.209 loss_D2 = 0.392
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5639/  250000, loss_seg1 = 0.172 loss_seg2 = 0.147 loss_adv1 = 3.217, loss_adv2 = 2.640 loss_D1 = 0.242 loss_D2 = 0.461
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5640/  250000, loss_seg1 = 0.383 loss_seg2 = 0.303 loss_adv1 = 4.449, loss_adv2 = 2.326 loss_D1 = 0.205 loss_D2 = 0.416
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5641/  250000, loss_seg1 = 0.320 loss_seg2 = 0.213 loss_adv1 = 4.616, loss_adv2 = 2.073 loss_D1 = 0.196 loss_D2 = 0.395
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5642/  250000, loss_seg1 = 0.547 loss_seg2 = 0.358 loss_adv1 = 3.524, loss_adv2 = 2.518 loss_D1 = 0.255 loss_D2 = 0.318
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5643/  250000, loss_seg1 = 0.168 loss_seg2 = 0.179 loss_adv1 = 4.377, loss_adv2 = 2.029 loss_D1 = 0.196 loss_D2 = 0.487
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5644/  250000, loss_seg1 = 0.327 loss_seg2 = 0.251 loss_adv1 = 3.780, loss_adv2 = 2.505 loss_D1 = 0.241 loss_D2 = 0.318
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5645/  250000, loss_seg1 = 0.229 loss_seg2 = 0.189 loss_adv1 = 5.245, loss_adv2 = 2.350 loss_D1 = 0.077 loss_D2 = 0.350
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5646/  250000, loss_seg1 = 0.173 loss_seg2 = 0.142 loss_adv1 = 5.426, loss_adv2 = 2.353 loss_D1 = 0.076 loss_D2 = 0.305
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5647/  250000, loss_seg1 = 0.234 loss_seg2 = 0.173 loss_adv1 = 4.653, loss_adv2 = 2.011 loss_D1 = 0.242 loss_D2 = 0.384
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5648/  250000, loss_seg1 = 0.269 loss_seg2 = 0.145 loss_adv1 = 4.925, loss_adv2 = 2.707 loss_D1 = 0.096 loss_D2 = 0.243
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5649/  250000, loss_seg1 = 0.194 loss_seg2 = 0.154 loss_adv1 = 3.139, loss_adv2 = 2.640 loss_D1 = 0.194 loss_D2 = 0.324
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5650/  250000, loss_seg1 = 1.022 loss_seg2 = 0.462 loss_adv1 = 5.273, loss_adv2 = 4.280 loss_D1 = 0.431 loss_D2 = 0.517
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5651/  250000, loss_seg1 = 0.235 loss_seg2 = 0.182 loss_adv1 = 2.777, loss_adv2 = 2.295 loss_D1 = 0.274 loss_D2 = 0.332
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5652/  250000, loss_seg1 = 1.159 loss_seg2 = 0.614 loss_adv1 = 2.193, loss_adv2 = 2.733 loss_D1 = 0.803 loss_D2 = 0.489
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5653/  250000, loss_seg1 = 0.208 loss_seg2 = 0.160 loss_adv1 = 3.704, loss_adv2 = 2.345 loss_D1 = 0.378 loss_D2 = 0.442
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5654/  250000, loss_seg1 = 0.279 loss_seg2 = 0.234 loss_adv1 = 3.047, loss_adv2 = 2.318 loss_D1 = 0.409 loss_D2 = 0.385
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5655/  250000, loss_seg1 = 0.443 loss_seg2 = 0.396 loss_adv1 = 2.760, loss_adv2 = 2.207 loss_D1 = 0.478 loss_D2 = 0.416
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5656/  250000, loss_seg1 = 0.201 loss_seg2 = 0.153 loss_adv1 = 3.130, loss_adv2 = 2.475 loss_D1 = 0.272 loss_D2 = 0.330
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5657/  250000, loss_seg1 = 0.245 loss_seg2 = 0.162 loss_adv1 = 2.633, loss_adv2 = 2.505 loss_D1 = 0.346 loss_D2 = 0.277
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5658/  250000, loss_seg1 = 0.214 loss_seg2 = 0.130 loss_adv1 = 2.071, loss_adv2 = 2.224 loss_D1 = 0.457 loss_D2 = 0.341
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5659/  250000, loss_seg1 = 0.257 loss_seg2 = 0.121 loss_adv1 = 3.571, loss_adv2 = 3.375 loss_D1 = 0.218 loss_D2 = 0.272
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5660/  250000, loss_seg1 = 0.172 loss_seg2 = 0.141 loss_adv1 = 2.297, loss_adv2 = 2.495 loss_D1 = 0.380 loss_D2 = 0.361
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5661/  250000, loss_seg1 = 0.303 loss_seg2 = 0.204 loss_adv1 = 2.433, loss_adv2 = 2.108 loss_D1 = 0.356 loss_D2 = 0.368
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5662/  250000, loss_seg1 = 2.065 loss_seg2 = 0.478 loss_adv1 = 2.464, loss_adv2 = 2.060 loss_D1 = 0.674 loss_D2 = 0.405
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5663/  250000, loss_seg1 = 1.645 loss_seg2 = 0.878 loss_adv1 = 2.963, loss_adv2 = 2.262 loss_D1 = 0.570 loss_D2 = 0.416
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5664/  250000, loss_seg1 = 0.216 loss_seg2 = 0.168 loss_adv1 = 3.261, loss_adv2 = 2.074 loss_D1 = 0.417 loss_D2 = 0.374
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5665/  250000, loss_seg1 = 0.183 loss_seg2 = 0.138 loss_adv1 = 3.072, loss_adv2 = 2.090 loss_D1 = 0.490 loss_D2 = 0.480
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5666/  250000, loss_seg1 = 0.448 loss_seg2 = 0.382 loss_adv1 = 3.046, loss_adv2 = 1.938 loss_D1 = 0.305 loss_D2 = 0.366
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5667/  250000, loss_seg1 = 0.402 loss_seg2 = 0.284 loss_adv1 = 2.780, loss_adv2 = 2.106 loss_D1 = 0.346 loss_D2 = 0.358
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5668/  250000, loss_seg1 = 0.205 loss_seg2 = 0.218 loss_adv1 = 2.821, loss_adv2 = 2.089 loss_D1 = 0.263 loss_D2 = 0.274
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5669/  250000, loss_seg1 = 0.334 loss_seg2 = 0.129 loss_adv1 = 2.543, loss_adv2 = 2.229 loss_D1 = 0.356 loss_D2 = 0.351
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5670/  250000, loss_seg1 = 0.249 loss_seg2 = 0.136 loss_adv1 = 2.060, loss_adv2 = 2.496 loss_D1 = 0.359 loss_D2 = 0.360
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5671/  250000, loss_seg1 = 0.435 loss_seg2 = 0.204 loss_adv1 = 2.851, loss_adv2 = 1.899 loss_D1 = 0.308 loss_D2 = 0.421
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5672/  250000, loss_seg1 = 0.586 loss_seg2 = 0.239 loss_adv1 = 2.011, loss_adv2 = 2.549 loss_D1 = 0.383 loss_D2 = 0.331
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5673/  250000, loss_seg1 = 0.247 loss_seg2 = 0.196 loss_adv1 = 2.487, loss_adv2 = 2.994 loss_D1 = 0.318 loss_D2 = 0.298
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5674/  250000, loss_seg1 = 0.352 loss_seg2 = 0.286 loss_adv1 = 2.340, loss_adv2 = 2.376 loss_D1 = 0.347 loss_D2 = 0.546
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5675/  250000, loss_seg1 = 0.225 loss_seg2 = 0.137 loss_adv1 = 2.300, loss_adv2 = 2.626 loss_D1 = 0.347 loss_D2 = 0.342
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5676/  250000, loss_seg1 = 0.274 loss_seg2 = 0.182 loss_adv1 = 2.953, loss_adv2 = 3.475 loss_D1 = 0.351 loss_D2 = 0.308
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5677/  250000, loss_seg1 = 0.295 loss_seg2 = 0.203 loss_adv1 = 2.344, loss_adv2 = 3.333 loss_D1 = 0.196 loss_D2 = 0.237
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5678/  250000, loss_seg1 = 0.364 loss_seg2 = 0.200 loss_adv1 = 2.923, loss_adv2 = 3.397 loss_D1 = 0.192 loss_D2 = 0.275
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5679/  250000, loss_seg1 = 0.428 loss_seg2 = 0.222 loss_adv1 = 2.526, loss_adv2 = 3.208 loss_D1 = 0.322 loss_D2 = 0.405
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5680/  250000, loss_seg1 = 0.193 loss_seg2 = 0.136 loss_adv1 = 2.932, loss_adv2 = 2.684 loss_D1 = 0.317 loss_D2 = 0.360
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5681/  250000, loss_seg1 = 0.248 loss_seg2 = 0.174 loss_adv1 = 3.013, loss_adv2 = 2.650 loss_D1 = 0.476 loss_D2 = 0.581
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5682/  250000, loss_seg1 = 0.219 loss_seg2 = 0.164 loss_adv1 = 2.856, loss_adv2 = 2.497 loss_D1 = 0.234 loss_D2 = 0.298
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5683/  250000, loss_seg1 = 1.709 loss_seg2 = 1.116 loss_adv1 = 2.762, loss_adv2 = 2.583 loss_D1 = 0.615 loss_D2 = 0.545
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5684/  250000, loss_seg1 = 0.293 loss_seg2 = 0.281 loss_adv1 = 2.599, loss_adv2 = 2.622 loss_D1 = 0.238 loss_D2 = 0.304
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5685/  250000, loss_seg1 = 0.538 loss_seg2 = 0.397 loss_adv1 = 3.064, loss_adv2 = 1.542 loss_D1 = 0.257 loss_D2 = 0.587
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5686/  250000, loss_seg1 = 0.339 loss_seg2 = 0.227 loss_adv1 = 2.775, loss_adv2 = 2.190 loss_D1 = 0.411 loss_D2 = 0.338
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5687/  250000, loss_seg1 = 0.238 loss_seg2 = 0.210 loss_adv1 = 2.551, loss_adv2 = 2.165 loss_D1 = 0.277 loss_D2 = 0.383
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5688/  250000, loss_seg1 = 0.215 loss_seg2 = 0.141 loss_adv1 = 2.891, loss_adv2 = 1.708 loss_D1 = 0.192 loss_D2 = 0.469
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5689/  250000, loss_seg1 = 0.467 loss_seg2 = 0.244 loss_adv1 = 2.685, loss_adv2 = 1.752 loss_D1 = 0.155 loss_D2 = 0.371
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5690/  250000, loss_seg1 = 0.158 loss_seg2 = 0.133 loss_adv1 = 3.812, loss_adv2 = 2.512 loss_D1 = 0.184 loss_D2 = 0.349
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5691/  250000, loss_seg1 = 0.189 loss_seg2 = 0.154 loss_adv1 = 3.378, loss_adv2 = 2.177 loss_D1 = 0.199 loss_D2 = 0.373
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5692/  250000, loss_seg1 = 0.231 loss_seg2 = 0.183 loss_adv1 = 3.476, loss_adv2 = 2.521 loss_D1 = 0.178 loss_D2 = 0.408
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5693/  250000, loss_seg1 = 0.202 loss_seg2 = 0.145 loss_adv1 = 3.533, loss_adv2 = 2.737 loss_D1 = 0.159 loss_D2 = 0.366
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5694/  250000, loss_seg1 = 0.320 loss_seg2 = 0.239 loss_adv1 = 4.416, loss_adv2 = 3.505 loss_D1 = 0.188 loss_D2 = 0.374
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5695/  250000, loss_seg1 = 0.266 loss_seg2 = 0.202 loss_adv1 = 3.828, loss_adv2 = 2.686 loss_D1 = 0.221 loss_D2 = 0.355
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5696/  250000, loss_seg1 = 0.286 loss_seg2 = 0.203 loss_adv1 = 4.849, loss_adv2 = 4.333 loss_D1 = 0.170 loss_D2 = 0.319
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5697/  250000, loss_seg1 = 0.241 loss_seg2 = 0.180 loss_adv1 = 4.655, loss_adv2 = 3.691 loss_D1 = 0.116 loss_D2 = 0.309
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5698/  250000, loss_seg1 = 0.230 loss_seg2 = 0.199 loss_adv1 = 3.353, loss_adv2 = 3.035 loss_D1 = 0.290 loss_D2 = 0.433
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5699/  250000, loss_seg1 = 0.143 loss_seg2 = 0.112 loss_adv1 = 3.476, loss_adv2 = 2.638 loss_D1 = 0.188 loss_D2 = 0.405
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5700/  250000, loss_seg1 = 0.404 loss_seg2 = 0.336 loss_adv1 = 3.364, loss_adv2 = 2.864 loss_D1 = 0.175 loss_D2 = 0.406
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5701/  250000, loss_seg1 = 0.273 loss_seg2 = 0.218 loss_adv1 = 4.462, loss_adv2 = 3.318 loss_D1 = 0.124 loss_D2 = 0.211
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5702/  250000, loss_seg1 = 0.413 loss_seg2 = 0.311 loss_adv1 = 3.013, loss_adv2 = 2.355 loss_D1 = 0.522 loss_D2 = 0.564
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5703/  250000, loss_seg1 = 0.240 loss_seg2 = 0.202 loss_adv1 = 4.621, loss_adv2 = 2.981 loss_D1 = 0.159 loss_D2 = 0.242
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5704/  250000, loss_seg1 = 0.256 loss_seg2 = 0.222 loss_adv1 = 3.216, loss_adv2 = 2.050 loss_D1 = 0.287 loss_D2 = 0.404
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5705/  250000, loss_seg1 = 0.394 loss_seg2 = 0.223 loss_adv1 = 3.197, loss_adv2 = 1.795 loss_D1 = 0.328 loss_D2 = 0.563
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5706/  250000, loss_seg1 = 0.533 loss_seg2 = 0.297 loss_adv1 = 3.736, loss_adv2 = 2.738 loss_D1 = 0.377 loss_D2 = 0.398
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5707/  250000, loss_seg1 = 1.078 loss_seg2 = 1.036 loss_adv1 = 4.301, loss_adv2 = 3.136 loss_D1 = 0.186 loss_D2 = 0.265
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5708/  250000, loss_seg1 = 0.318 loss_seg2 = 0.281 loss_adv1 = 4.077, loss_adv2 = 2.603 loss_D1 = 0.160 loss_D2 = 0.351
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5709/  250000, loss_seg1 = 0.254 loss_seg2 = 0.174 loss_adv1 = 2.873, loss_adv2 = 2.128 loss_D1 = 0.327 loss_D2 = 0.436
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5710/  250000, loss_seg1 = 1.191 loss_seg2 = 1.003 loss_adv1 = 4.575, loss_adv2 = 3.420 loss_D1 = 0.230 loss_D2 = 0.228
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5711/  250000, loss_seg1 = 0.155 loss_seg2 = 0.131 loss_adv1 = 2.961, loss_adv2 = 1.688 loss_D1 = 0.331 loss_D2 = 0.486
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5712/  250000, loss_seg1 = 0.164 loss_seg2 = 0.131 loss_adv1 = 4.436, loss_adv2 = 3.485 loss_D1 = 0.146 loss_D2 = 0.169
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5713/  250000, loss_seg1 = 0.207 loss_seg2 = 0.175 loss_adv1 = 3.012, loss_adv2 = 2.035 loss_D1 = 0.302 loss_D2 = 0.360
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5714/  250000, loss_seg1 = 0.168 loss_seg2 = 0.126 loss_adv1 = 2.674, loss_adv2 = 2.389 loss_D1 = 0.357 loss_D2 = 0.418
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5715/  250000, loss_seg1 = 0.310 loss_seg2 = 0.226 loss_adv1 = 4.999, loss_adv2 = 3.793 loss_D1 = 0.122 loss_D2 = 0.180
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5716/  250000, loss_seg1 = 0.254 loss_seg2 = 0.183 loss_adv1 = 3.125, loss_adv2 = 1.985 loss_D1 = 0.300 loss_D2 = 0.391
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5717/  250000, loss_seg1 = 0.278 loss_seg2 = 0.208 loss_adv1 = 2.930, loss_adv2 = 2.225 loss_D1 = 0.297 loss_D2 = 0.449
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5718/  250000, loss_seg1 = 0.126 loss_seg2 = 0.112 loss_adv1 = 3.415, loss_adv2 = 2.138 loss_D1 = 0.262 loss_D2 = 0.417
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5719/  250000, loss_seg1 = 0.477 loss_seg2 = 0.404 loss_adv1 = 2.922, loss_adv2 = 2.070 loss_D1 = 0.599 loss_D2 = 0.649
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5720/  250000, loss_seg1 = 0.202 loss_seg2 = 0.155 loss_adv1 = 2.242, loss_adv2 = 2.379 loss_D1 = 0.339 loss_D2 = 0.305
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5721/  250000, loss_seg1 = 0.763 loss_seg2 = 0.542 loss_adv1 = 2.913, loss_adv2 = 2.655 loss_D1 = 0.537 loss_D2 = 0.598
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5722/  250000, loss_seg1 = 0.156 loss_seg2 = 0.135 loss_adv1 = 3.885, loss_adv2 = 3.147 loss_D1 = 0.209 loss_D2 = 0.259
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5723/  250000, loss_seg1 = 0.546 loss_seg2 = 0.448 loss_adv1 = 3.287, loss_adv2 = 2.296 loss_D1 = 0.282 loss_D2 = 0.400
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5724/  250000, loss_seg1 = 0.184 loss_seg2 = 0.151 loss_adv1 = 1.364, loss_adv2 = 0.995 loss_D1 = 1.010 loss_D2 = 0.919
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5725/  250000, loss_seg1 = 0.353 loss_seg2 = 0.301 loss_adv1 = 5.460, loss_adv2 = 3.312 loss_D1 = 0.144 loss_D2 = 0.237
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5726/  250000, loss_seg1 = 0.434 loss_seg2 = 0.335 loss_adv1 = 2.397, loss_adv2 = 1.880 loss_D1 = 0.347 loss_D2 = 0.411
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5727/  250000, loss_seg1 = 0.197 loss_seg2 = 0.177 loss_adv1 = 2.480, loss_adv2 = 2.147 loss_D1 = 0.343 loss_D2 = 0.395
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5728/  250000, loss_seg1 = 0.206 loss_seg2 = 0.152 loss_adv1 = 4.290, loss_adv2 = 2.461 loss_D1 = 0.178 loss_D2 = 0.280
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5729/  250000, loss_seg1 = 0.257 loss_seg2 = 0.175 loss_adv1 = 4.645, loss_adv2 = 3.201 loss_D1 = 0.195 loss_D2 = 0.295
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5730/  250000, loss_seg1 = 0.500 loss_seg2 = 0.308 loss_adv1 = 3.632, loss_adv2 = 2.234 loss_D1 = 0.208 loss_D2 = 0.352
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5731/  250000, loss_seg1 = 0.459 loss_seg2 = 0.250 loss_adv1 = 2.565, loss_adv2 = 2.012 loss_D1 = 0.377 loss_D2 = 0.397
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5732/  250000, loss_seg1 = 0.216 loss_seg2 = 0.174 loss_adv1 = 2.695, loss_adv2 = 2.255 loss_D1 = 0.228 loss_D2 = 0.346
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5733/  250000, loss_seg1 = 0.450 loss_seg2 = 0.348 loss_adv1 = 4.368, loss_adv2 = 3.675 loss_D1 = 0.132 loss_D2 = 0.235
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5734/  250000, loss_seg1 = 0.148 loss_seg2 = 0.123 loss_adv1 = 3.665, loss_adv2 = 1.903 loss_D1 = 0.192 loss_D2 = 0.437
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5735/  250000, loss_seg1 = 0.238 loss_seg2 = 0.178 loss_adv1 = 2.944, loss_adv2 = 2.040 loss_D1 = 0.211 loss_D2 = 0.340
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5736/  250000, loss_seg1 = 0.162 loss_seg2 = 0.127 loss_adv1 = 3.052, loss_adv2 = 2.341 loss_D1 = 0.203 loss_D2 = 0.299
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5737/  250000, loss_seg1 = 0.455 loss_seg2 = 0.262 loss_adv1 = 3.729, loss_adv2 = 3.295 loss_D1 = 0.151 loss_D2 = 0.232
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5738/  250000, loss_seg1 = 0.250 loss_seg2 = 0.164 loss_adv1 = 4.252, loss_adv2 = 3.225 loss_D1 = 0.110 loss_D2 = 0.247
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5739/  250000, loss_seg1 = 3.047 loss_seg2 = 1.648 loss_adv1 = 4.019, loss_adv2 = 1.992 loss_D1 = 0.966 loss_D2 = 0.858
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5740/  250000, loss_seg1 = 0.316 loss_seg2 = 0.235 loss_adv1 = 3.783, loss_adv2 = 1.888 loss_D1 = 0.233 loss_D2 = 0.445
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5741/  250000, loss_seg1 = 0.504 loss_seg2 = 0.373 loss_adv1 = 2.661, loss_adv2 = 2.144 loss_D1 = 0.262 loss_D2 = 0.376
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5742/  250000, loss_seg1 = 0.494 loss_seg2 = 0.320 loss_adv1 = 4.170, loss_adv2 = 3.058 loss_D1 = 0.201 loss_D2 = 0.269
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5743/  250000, loss_seg1 = 0.515 loss_seg2 = 0.296 loss_adv1 = 3.648, loss_adv2 = 2.690 loss_D1 = 0.140 loss_D2 = 0.376
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5744/  250000, loss_seg1 = 0.317 loss_seg2 = 0.227 loss_adv1 = 2.678, loss_adv2 = 2.469 loss_D1 = 0.212 loss_D2 = 0.286
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5745/  250000, loss_seg1 = 0.445 loss_seg2 = 0.167 loss_adv1 = 3.263, loss_adv2 = 2.170 loss_D1 = 0.231 loss_D2 = 0.291
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5746/  250000, loss_seg1 = 0.514 loss_seg2 = 0.217 loss_adv1 = 3.378, loss_adv2 = 2.715 loss_D1 = 0.190 loss_D2 = 0.329
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5747/  250000, loss_seg1 = 0.485 loss_seg2 = 0.333 loss_adv1 = 2.840, loss_adv2 = 2.595 loss_D1 = 0.293 loss_D2 = 0.324
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5748/  250000, loss_seg1 = 1.291 loss_seg2 = 0.495 loss_adv1 = 3.128, loss_adv2 = 2.447 loss_D1 = 1.240 loss_D2 = 0.844
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5749/  250000, loss_seg1 = 0.255 loss_seg2 = 0.176 loss_adv1 = 3.527, loss_adv2 = 3.038 loss_D1 = 0.098 loss_D2 = 0.195
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5750/  250000, loss_seg1 = 0.211 loss_seg2 = 0.187 loss_adv1 = 3.028, loss_adv2 = 2.638 loss_D1 = 0.121 loss_D2 = 0.302
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5751/  250000, loss_seg1 = 0.414 loss_seg2 = 0.447 loss_adv1 = 1.763, loss_adv2 = 2.308 loss_D1 = 0.428 loss_D2 = 0.366
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5752/  250000, loss_seg1 = 0.199 loss_seg2 = 0.161 loss_adv1 = 2.009, loss_adv2 = 3.133 loss_D1 = 0.357 loss_D2 = 0.227
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5753/  250000, loss_seg1 = 1.154 loss_seg2 = 0.601 loss_adv1 = 1.935, loss_adv2 = 3.130 loss_D1 = 0.330 loss_D2 = 0.353
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5754/  250000, loss_seg1 = 0.417 loss_seg2 = 0.239 loss_adv1 = 1.933, loss_adv2 = 2.230 loss_D1 = 0.386 loss_D2 = 0.486
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5755/  250000, loss_seg1 = 0.183 loss_seg2 = 0.110 loss_adv1 = 1.420, loss_adv2 = 2.178 loss_D1 = 0.529 loss_D2 = 0.430
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5756/  250000, loss_seg1 = 0.293 loss_seg2 = 0.213 loss_adv1 = 1.255, loss_adv2 = 1.729 loss_D1 = 0.587 loss_D2 = 0.495
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5757/  250000, loss_seg1 = 0.219 loss_seg2 = 0.131 loss_adv1 = 1.751, loss_adv2 = 3.251 loss_D1 = 0.427 loss_D2 = 0.276
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5758/  250000, loss_seg1 = 0.483 loss_seg2 = 0.228 loss_adv1 = 1.749, loss_adv2 = 2.345 loss_D1 = 0.377 loss_D2 = 0.349
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5759/  250000, loss_seg1 = 0.341 loss_seg2 = 0.174 loss_adv1 = 1.285, loss_adv2 = 2.513 loss_D1 = 0.748 loss_D2 = 0.340
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5760/  250000, loss_seg1 = 0.241 loss_seg2 = 0.152 loss_adv1 = 1.853, loss_adv2 = 2.543 loss_D1 = 0.373 loss_D2 = 0.339
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5761/  250000, loss_seg1 = 0.379 loss_seg2 = 0.185 loss_adv1 = 1.511, loss_adv2 = 2.080 loss_D1 = 0.546 loss_D2 = 0.408
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5762/  250000, loss_seg1 = 0.330 loss_seg2 = 0.156 loss_adv1 = 1.766, loss_adv2 = 2.153 loss_D1 = 0.426 loss_D2 = 0.371
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5763/  250000, loss_seg1 = 0.817 loss_seg2 = 0.607 loss_adv1 = 2.838, loss_adv2 = 4.002 loss_D1 = 0.453 loss_D2 = 0.389
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5764/  250000, loss_seg1 = 0.607 loss_seg2 = 0.262 loss_adv1 = 2.452, loss_adv2 = 2.936 loss_D1 = 0.307 loss_D2 = 0.307
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5765/  250000, loss_seg1 = 0.467 loss_seg2 = 0.284 loss_adv1 = 3.109, loss_adv2 = 3.400 loss_D1 = 0.558 loss_D2 = 0.441
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5766/  250000, loss_seg1 = 0.923 loss_seg2 = 0.548 loss_adv1 = 2.577, loss_adv2 = 2.399 loss_D1 = 0.309 loss_D2 = 0.332
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5767/  250000, loss_seg1 = 0.750 loss_seg2 = 0.344 loss_adv1 = 2.736, loss_adv2 = 2.176 loss_D1 = 0.445 loss_D2 = 0.473
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5768/  250000, loss_seg1 = 0.310 loss_seg2 = 0.211 loss_adv1 = 2.711, loss_adv2 = 2.067 loss_D1 = 0.334 loss_D2 = 0.336
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5769/  250000, loss_seg1 = 0.185 loss_seg2 = 0.157 loss_adv1 = 4.303, loss_adv2 = 3.350 loss_D1 = 0.205 loss_D2 = 0.284
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5770/  250000, loss_seg1 = 0.197 loss_seg2 = 0.119 loss_adv1 = 3.578, loss_adv2 = 2.899 loss_D1 = 0.264 loss_D2 = 0.274
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5771/  250000, loss_seg1 = 0.329 loss_seg2 = 0.417 loss_adv1 = 4.071, loss_adv2 = 3.112 loss_D1 = 0.175 loss_D2 = 0.303
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5772/  250000, loss_seg1 = 0.576 loss_seg2 = 0.417 loss_adv1 = 3.321, loss_adv2 = 2.248 loss_D1 = 0.376 loss_D2 = 0.540
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5773/  250000, loss_seg1 = 0.484 loss_seg2 = 0.264 loss_adv1 = 1.995, loss_adv2 = 1.679 loss_D1 = 0.473 loss_D2 = 0.375
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5774/  250000, loss_seg1 = 0.370 loss_seg2 = 0.101 loss_adv1 = 3.470, loss_adv2 = 3.086 loss_D1 = 0.318 loss_D2 = 0.330
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5775/  250000, loss_seg1 = 0.982 loss_seg2 = 0.138 loss_adv1 = 1.945, loss_adv2 = 2.068 loss_D1 = 0.495 loss_D2 = 0.407
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5776/  250000, loss_seg1 = 0.271 loss_seg2 = 0.216 loss_adv1 = 2.619, loss_adv2 = 2.636 loss_D1 = 0.330 loss_D2 = 0.317
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5777/  250000, loss_seg1 = 0.444 loss_seg2 = 0.330 loss_adv1 = 2.016, loss_adv2 = 2.124 loss_D1 = 0.397 loss_D2 = 0.420
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5778/  250000, loss_seg1 = 1.267 loss_seg2 = 1.073 loss_adv1 = 2.377, loss_adv2 = 2.288 loss_D1 = 0.225 loss_D2 = 0.321
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5779/  250000, loss_seg1 = 0.696 loss_seg2 = 0.374 loss_adv1 = 3.073, loss_adv2 = 3.084 loss_D1 = 0.151 loss_D2 = 0.238
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5780/  250000, loss_seg1 = 0.328 loss_seg2 = 0.315 loss_adv1 = 2.006, loss_adv2 = 2.363 loss_D1 = 0.403 loss_D2 = 0.469
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5781/  250000, loss_seg1 = 0.370 loss_seg2 = 0.264 loss_adv1 = 2.439, loss_adv2 = 2.129 loss_D1 = 0.258 loss_D2 = 0.371
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5782/  250000, loss_seg1 = 0.246 loss_seg2 = 0.163 loss_adv1 = 2.056, loss_adv2 = 2.390 loss_D1 = 0.303 loss_D2 = 0.277
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5783/  250000, loss_seg1 = 0.336 loss_seg2 = 0.204 loss_adv1 = 2.576, loss_adv2 = 3.580 loss_D1 = 0.263 loss_D2 = 0.290
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5784/  250000, loss_seg1 = 0.260 loss_seg2 = 0.166 loss_adv1 = 2.595, loss_adv2 = 2.902 loss_D1 = 0.185 loss_D2 = 0.259
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5785/  250000, loss_seg1 = 0.217 loss_seg2 = 0.141 loss_adv1 = 2.297, loss_adv2 = 2.067 loss_D1 = 0.334 loss_D2 = 0.458
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5786/  250000, loss_seg1 = 2.293 loss_seg2 = 0.241 loss_adv1 = 2.552, loss_adv2 = 3.026 loss_D1 = 0.653 loss_D2 = 0.317
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5787/  250000, loss_seg1 = 0.180 loss_seg2 = 0.133 loss_adv1 = 2.626, loss_adv2 = 2.457 loss_D1 = 0.268 loss_D2 = 0.332
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5788/  250000, loss_seg1 = 0.496 loss_seg2 = 0.290 loss_adv1 = 3.039, loss_adv2 = 2.668 loss_D1 = 0.275 loss_D2 = 0.351
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5789/  250000, loss_seg1 = 0.490 loss_seg2 = 0.369 loss_adv1 = 3.195, loss_adv2 = 2.127 loss_D1 = 0.284 loss_D2 = 0.425
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5790/  250000, loss_seg1 = 0.336 loss_seg2 = 0.185 loss_adv1 = 4.484, loss_adv2 = 2.866 loss_D1 = 0.119 loss_D2 = 0.223
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5791/  250000, loss_seg1 = 0.255 loss_seg2 = 0.177 loss_adv1 = 3.376, loss_adv2 = 2.816 loss_D1 = 0.150 loss_D2 = 0.360
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5792/  250000, loss_seg1 = 0.235 loss_seg2 = 0.259 loss_adv1 = 4.405, loss_adv2 = 3.101 loss_D1 = 0.182 loss_D2 = 0.205
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5793/  250000, loss_seg1 = 0.245 loss_seg2 = 0.188 loss_adv1 = 4.121, loss_adv2 = 3.420 loss_D1 = 0.146 loss_D2 = 0.222
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5794/  250000, loss_seg1 = 0.197 loss_seg2 = 0.170 loss_adv1 = 4.490, loss_adv2 = 3.467 loss_D1 = 0.171 loss_D2 = 0.223
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5795/  250000, loss_seg1 = 0.255 loss_seg2 = 0.138 loss_adv1 = 3.169, loss_adv2 = 2.716 loss_D1 = 0.253 loss_D2 = 0.300
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5796/  250000, loss_seg1 = 0.175 loss_seg2 = 0.287 loss_adv1 = 3.032, loss_adv2 = 2.585 loss_D1 = 0.258 loss_D2 = 0.352
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5797/  250000, loss_seg1 = 0.169 loss_seg2 = 0.131 loss_adv1 = 3.109, loss_adv2 = 2.683 loss_D1 = 0.299 loss_D2 = 0.313
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5798/  250000, loss_seg1 = 0.315 loss_seg2 = 0.159 loss_adv1 = 3.288, loss_adv2 = 3.203 loss_D1 = 0.248 loss_D2 = 0.221
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5799/  250000, loss_seg1 = 0.510 loss_seg2 = 0.140 loss_adv1 = 3.889, loss_adv2 = 3.527 loss_D1 = 0.252 loss_D2 = 0.225
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5800/  250000, loss_seg1 = 0.212 loss_seg2 = 0.147 loss_adv1 = 4.545, loss_adv2 = 3.112 loss_D1 = 0.182 loss_D2 = 0.244
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5801/  250000, loss_seg1 = 1.119 loss_seg2 = 0.567 loss_adv1 = 5.719, loss_adv2 = 3.741 loss_D1 = 0.423 loss_D2 = 0.332
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5802/  250000, loss_seg1 = 0.156 loss_seg2 = 0.109 loss_adv1 = 4.155, loss_adv2 = 1.948 loss_D1 = 0.105 loss_D2 = 0.401
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5803/  250000, loss_seg1 = 0.492 loss_seg2 = 0.319 loss_adv1 = 4.265, loss_adv2 = 2.968 loss_D1 = 0.422 loss_D2 = 0.383
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5804/  250000, loss_seg1 = 0.283 loss_seg2 = 0.204 loss_adv1 = 2.676, loss_adv2 = 3.119 loss_D1 = 0.236 loss_D2 = 0.244
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5805/  250000, loss_seg1 = 0.269 loss_seg2 = 0.223 loss_adv1 = 3.570, loss_adv2 = 3.054 loss_D1 = 0.219 loss_D2 = 0.331
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5806/  250000, loss_seg1 = 0.319 loss_seg2 = 0.196 loss_adv1 = 2.814, loss_adv2 = 2.071 loss_D1 = 0.457 loss_D2 = 0.416
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5807/  250000, loss_seg1 = 0.153 loss_seg2 = 0.119 loss_adv1 = 2.299, loss_adv2 = 2.500 loss_D1 = 0.339 loss_D2 = 0.329
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5808/  250000, loss_seg1 = 0.240 loss_seg2 = 0.174 loss_adv1 = 4.072, loss_adv2 = 3.517 loss_D1 = 0.164 loss_D2 = 0.250
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5809/  250000, loss_seg1 = 0.183 loss_seg2 = 0.137 loss_adv1 = 2.804, loss_adv2 = 2.489 loss_D1 = 0.336 loss_D2 = 0.351
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5810/  250000, loss_seg1 = 0.233 loss_seg2 = 0.194 loss_adv1 = 4.150, loss_adv2 = 3.968 loss_D1 = 0.234 loss_D2 = 0.279
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5811/  250000, loss_seg1 = 0.262 loss_seg2 = 0.210 loss_adv1 = 4.498, loss_adv2 = 4.447 loss_D1 = 0.119 loss_D2 = 0.232
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5812/  250000, loss_seg1 = 0.280 loss_seg2 = 0.230 loss_adv1 = 3.584, loss_adv2 = 4.081 loss_D1 = 0.270 loss_D2 = 0.339
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5813/  250000, loss_seg1 = 0.224 loss_seg2 = 0.156 loss_adv1 = 2.919, loss_adv2 = 2.977 loss_D1 = 0.262 loss_D2 = 0.324
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5814/  250000, loss_seg1 = 0.195 loss_seg2 = 0.153 loss_adv1 = 3.501, loss_adv2 = 3.849 loss_D1 = 0.239 loss_D2 = 0.334
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5815/  250000, loss_seg1 = 0.144 loss_seg2 = 0.095 loss_adv1 = 4.369, loss_adv2 = 4.204 loss_D1 = 0.245 loss_D2 = 0.253
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5816/  250000, loss_seg1 = 0.235 loss_seg2 = 0.182 loss_adv1 = 3.351, loss_adv2 = 2.945 loss_D1 = 0.217 loss_D2 = 0.242
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5817/  250000, loss_seg1 = 0.355 loss_seg2 = 0.267 loss_adv1 = 2.805, loss_adv2 = 2.549 loss_D1 = 0.273 loss_D2 = 0.292
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5818/  250000, loss_seg1 = 0.164 loss_seg2 = 0.116 loss_adv1 = 2.775, loss_adv2 = 2.393 loss_D1 = 0.319 loss_D2 = 0.378
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5819/  250000, loss_seg1 = 0.305 loss_seg2 = 0.191 loss_adv1 = 3.849, loss_adv2 = 3.541 loss_D1 = 0.275 loss_D2 = 0.204
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5820/  250000, loss_seg1 = 0.797 loss_seg2 = 0.665 loss_adv1 = 4.473, loss_adv2 = 3.834 loss_D1 = 0.400 loss_D2 = 0.603
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5821/  250000, loss_seg1 = 1.355 loss_seg2 = 0.938 loss_adv1 = 3.038, loss_adv2 = 2.661 loss_D1 = 0.569 loss_D2 = 0.542
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5822/  250000, loss_seg1 = 0.325 loss_seg2 = 0.243 loss_adv1 = 2.787, loss_adv2 = 2.555 loss_D1 = 0.237 loss_D2 = 0.253
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5823/  250000, loss_seg1 = 0.394 loss_seg2 = 0.284 loss_adv1 = 2.830, loss_adv2 = 1.893 loss_D1 = 0.299 loss_D2 = 0.500
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5824/  250000, loss_seg1 = 0.728 loss_seg2 = 0.651 loss_adv1 = 2.596, loss_adv2 = 2.194 loss_D1 = 0.266 loss_D2 = 0.403
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5825/  250000, loss_seg1 = 0.426 loss_seg2 = 0.243 loss_adv1 = 3.831, loss_adv2 = 2.745 loss_D1 = 0.147 loss_D2 = 0.230
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5826/  250000, loss_seg1 = 0.486 loss_seg2 = 0.189 loss_adv1 = 2.311, loss_adv2 = 2.017 loss_D1 = 0.302 loss_D2 = 0.298
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5827/  250000, loss_seg1 = 0.191 loss_seg2 = 0.144 loss_adv1 = 2.416, loss_adv2 = 1.873 loss_D1 = 0.404 loss_D2 = 0.366
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5828/  250000, loss_seg1 = 0.574 loss_seg2 = 0.338 loss_adv1 = 4.138, loss_adv2 = 3.135 loss_D1 = 0.233 loss_D2 = 0.300
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5829/  250000, loss_seg1 = 0.227 loss_seg2 = 0.183 loss_adv1 = 2.415, loss_adv2 = 2.257 loss_D1 = 0.347 loss_D2 = 0.366
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5830/  250000, loss_seg1 = 0.469 loss_seg2 = 0.405 loss_adv1 = 4.195, loss_adv2 = 3.108 loss_D1 = 0.102 loss_D2 = 0.176
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5831/  250000, loss_seg1 = 0.619 loss_seg2 = 0.232 loss_adv1 = 2.507, loss_adv2 = 2.259 loss_D1 = 0.575 loss_D2 = 0.533
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5832/  250000, loss_seg1 = 0.139 loss_seg2 = 0.119 loss_adv1 = 3.331, loss_adv2 = 2.695 loss_D1 = 0.170 loss_D2 = 0.272
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5833/  250000, loss_seg1 = 0.281 loss_seg2 = 0.196 loss_adv1 = 2.853, loss_adv2 = 2.457 loss_D1 = 0.253 loss_D2 = 0.322
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5834/  250000, loss_seg1 = 0.181 loss_seg2 = 0.159 loss_adv1 = 2.994, loss_adv2 = 2.187 loss_D1 = 0.237 loss_D2 = 0.384
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5835/  250000, loss_seg1 = 0.377 loss_seg2 = 0.188 loss_adv1 = 2.991, loss_adv2 = 2.385 loss_D1 = 0.270 loss_D2 = 0.416
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5836/  250000, loss_seg1 = 0.239 loss_seg2 = 0.190 loss_adv1 = 3.572, loss_adv2 = 3.298 loss_D1 = 0.196 loss_D2 = 0.220
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5837/  250000, loss_seg1 = 0.552 loss_seg2 = 0.303 loss_adv1 = 3.567, loss_adv2 = 2.110 loss_D1 = 0.227 loss_D2 = 0.351
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5838/  250000, loss_seg1 = 0.437 loss_seg2 = 0.476 loss_adv1 = 3.033, loss_adv2 = 2.291 loss_D1 = 0.322 loss_D2 = 0.395
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5839/  250000, loss_seg1 = 0.274 loss_seg2 = 0.185 loss_adv1 = 3.587, loss_adv2 = 3.628 loss_D1 = 0.176 loss_D2 = 0.230
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5840/  250000, loss_seg1 = 0.474 loss_seg2 = 0.320 loss_adv1 = 3.672, loss_adv2 = 3.409 loss_D1 = 0.221 loss_D2 = 0.299
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5841/  250000, loss_seg1 = 0.200 loss_seg2 = 0.151 loss_adv1 = 2.990, loss_adv2 = 2.980 loss_D1 = 0.316 loss_D2 = 0.316
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5842/  250000, loss_seg1 = 0.265 loss_seg2 = 0.208 loss_adv1 = 4.088, loss_adv2 = 3.875 loss_D1 = 0.187 loss_D2 = 0.250
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5843/  250000, loss_seg1 = 0.449 loss_seg2 = 0.324 loss_adv1 = 4.511, loss_adv2 = 3.768 loss_D1 = 0.230 loss_D2 = 0.310
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5844/  250000, loss_seg1 = 0.186 loss_seg2 = 0.126 loss_adv1 = 3.174, loss_adv2 = 2.260 loss_D1 = 0.361 loss_D2 = 0.495
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5845/  250000, loss_seg1 = 0.375 loss_seg2 = 0.221 loss_adv1 = 4.520, loss_adv2 = 3.773 loss_D1 = 0.111 loss_D2 = 0.176
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5846/  250000, loss_seg1 = 0.196 loss_seg2 = 0.146 loss_adv1 = 3.971, loss_adv2 = 3.335 loss_D1 = 0.152 loss_D2 = 0.228
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5847/  250000, loss_seg1 = 0.575 loss_seg2 = 0.457 loss_adv1 = 2.330, loss_adv2 = 2.594 loss_D1 = 0.525 loss_D2 = 0.507
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5848/  250000, loss_seg1 = 0.269 loss_seg2 = 0.180 loss_adv1 = 4.567, loss_adv2 = 3.476 loss_D1 = 0.141 loss_D2 = 0.271
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5849/  250000, loss_seg1 = 0.275 loss_seg2 = 0.178 loss_adv1 = 2.385, loss_adv2 = 2.195 loss_D1 = 0.288 loss_D2 = 0.301
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5850/  250000, loss_seg1 = 0.224 loss_seg2 = 0.178 loss_adv1 = 3.880, loss_adv2 = 1.810 loss_D1 = 0.218 loss_D2 = 0.397
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5851/  250000, loss_seg1 = 0.299 loss_seg2 = 0.215 loss_adv1 = 2.678, loss_adv2 = 2.728 loss_D1 = 0.284 loss_D2 = 0.212
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5852/  250000, loss_seg1 = 0.339 loss_seg2 = 0.274 loss_adv1 = 3.950, loss_adv2 = 2.532 loss_D1 = 0.175 loss_D2 = 0.309
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5853/  250000, loss_seg1 = 0.346 loss_seg2 = 0.200 loss_adv1 = 2.995, loss_adv2 = 1.909 loss_D1 = 0.204 loss_D2 = 0.342
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5854/  250000, loss_seg1 = 0.144 loss_seg2 = 0.099 loss_adv1 = 4.169, loss_adv2 = 2.500 loss_D1 = 0.299 loss_D2 = 0.362
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5855/  250000, loss_seg1 = 0.245 loss_seg2 = 0.206 loss_adv1 = 2.797, loss_adv2 = 2.627 loss_D1 = 0.260 loss_D2 = 0.268
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5856/  250000, loss_seg1 = 0.218 loss_seg2 = 0.185 loss_adv1 = 2.864, loss_adv2 = 2.587 loss_D1 = 0.154 loss_D2 = 0.222
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5857/  250000, loss_seg1 = 0.213 loss_seg2 = 0.148 loss_adv1 = 2.927, loss_adv2 = 2.283 loss_D1 = 0.268 loss_D2 = 0.305
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5858/  250000, loss_seg1 = 0.210 loss_seg2 = 0.158 loss_adv1 = 2.829, loss_adv2 = 2.601 loss_D1 = 0.190 loss_D2 = 0.311
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5859/  250000, loss_seg1 = 0.660 loss_seg2 = 0.533 loss_adv1 = 5.684, loss_adv2 = 4.643 loss_D1 = 0.273 loss_D2 = 0.446
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5860/  250000, loss_seg1 = 0.267 loss_seg2 = 0.187 loss_adv1 = 2.783, loss_adv2 = 2.796 loss_D1 = 0.223 loss_D2 = 0.301
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5861/  250000, loss_seg1 = 0.352 loss_seg2 = 0.210 loss_adv1 = 3.792, loss_adv2 = 2.179 loss_D1 = 0.244 loss_D2 = 0.458
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5862/  250000, loss_seg1 = 0.281 loss_seg2 = 0.205 loss_adv1 = 2.836, loss_adv2 = 2.605 loss_D1 = 0.286 loss_D2 = 0.457
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5863/  250000, loss_seg1 = 0.134 loss_seg2 = 0.112 loss_adv1 = 4.685, loss_adv2 = 3.912 loss_D1 = 0.150 loss_D2 = 0.172
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5864/  250000, loss_seg1 = 0.434 loss_seg2 = 0.311 loss_adv1 = 2.897, loss_adv2 = 2.740 loss_D1 = 0.199 loss_D2 = 0.245
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5865/  250000, loss_seg1 = 0.550 loss_seg2 = 0.410 loss_adv1 = 4.727, loss_adv2 = 2.412 loss_D1 = 0.251 loss_D2 = 0.424
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5866/  250000, loss_seg1 = 0.994 loss_seg2 = 0.692 loss_adv1 = 4.376, loss_adv2 = 3.093 loss_D1 = 0.327 loss_D2 = 0.308
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5867/  250000, loss_seg1 = 0.187 loss_seg2 = 0.158 loss_adv1 = 5.798, loss_adv2 = 4.062 loss_D1 = 0.107 loss_D2 = 0.180
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5868/  250000, loss_seg1 = 0.286 loss_seg2 = 0.247 loss_adv1 = 5.003, loss_adv2 = 2.993 loss_D1 = 0.156 loss_D2 = 0.242
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5869/  250000, loss_seg1 = 0.236 loss_seg2 = 0.216 loss_adv1 = 6.134, loss_adv2 = 3.844 loss_D1 = 0.092 loss_D2 = 0.176
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5870/  250000, loss_seg1 = 0.281 loss_seg2 = 0.209 loss_adv1 = 4.409, loss_adv2 = 2.307 loss_D1 = 0.258 loss_D2 = 0.361
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5871/  250000, loss_seg1 = 0.302 loss_seg2 = 0.227 loss_adv1 = 4.916, loss_adv2 = 3.129 loss_D1 = 0.290 loss_D2 = 0.312
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5872/  250000, loss_seg1 = 0.279 loss_seg2 = 0.212 loss_adv1 = 3.360, loss_adv2 = 2.621 loss_D1 = 0.180 loss_D2 = 0.248
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5873/  250000, loss_seg1 = 0.335 loss_seg2 = 0.311 loss_adv1 = 3.450, loss_adv2 = 2.388 loss_D1 = 0.217 loss_D2 = 0.330
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5874/  250000, loss_seg1 = 0.282 loss_seg2 = 0.232 loss_adv1 = 4.972, loss_adv2 = 3.054 loss_D1 = 0.170 loss_D2 = 0.348
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5875/  250000, loss_seg1 = 0.176 loss_seg2 = 0.169 loss_adv1 = 3.992, loss_adv2 = 2.247 loss_D1 = 0.190 loss_D2 = 0.385
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5876/  250000, loss_seg1 = 0.470 loss_seg2 = 0.306 loss_adv1 = 4.818, loss_adv2 = 3.813 loss_D1 = 0.222 loss_D2 = 0.144
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5877/  250000, loss_seg1 = 0.236 loss_seg2 = 0.222 loss_adv1 = 5.441, loss_adv2 = 4.020 loss_D1 = 0.111 loss_D2 = 0.268
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5878/  250000, loss_seg1 = 0.134 loss_seg2 = 0.120 loss_adv1 = 3.267, loss_adv2 = 2.604 loss_D1 = 0.157 loss_D2 = 0.278
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5879/  250000, loss_seg1 = 0.263 loss_seg2 = 0.180 loss_adv1 = 3.377, loss_adv2 = 3.110 loss_D1 = 0.143 loss_D2 = 0.239
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5880/  250000, loss_seg1 = 0.374 loss_seg2 = 0.301 loss_adv1 = 3.250, loss_adv2 = 2.708 loss_D1 = 0.195 loss_D2 = 0.303
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5881/  250000, loss_seg1 = 0.190 loss_seg2 = 0.147 loss_adv1 = 4.893, loss_adv2 = 3.405 loss_D1 = 0.073 loss_D2 = 0.251
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5882/  250000, loss_seg1 = 0.888 loss_seg2 = 0.564 loss_adv1 = 4.446, loss_adv2 = 3.713 loss_D1 = 0.216 loss_D2 = 0.580
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5883/  250000, loss_seg1 = 0.520 loss_seg2 = 0.334 loss_adv1 = 3.290, loss_adv2 = 2.882 loss_D1 = 0.261 loss_D2 = 0.279
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5884/  250000, loss_seg1 = 0.193 loss_seg2 = 0.100 loss_adv1 = 4.583, loss_adv2 = 2.293 loss_D1 = 0.228 loss_D2 = 0.421
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5885/  250000, loss_seg1 = 0.527 loss_seg2 = 0.472 loss_adv1 = 5.633, loss_adv2 = 4.420 loss_D1 = 0.330 loss_D2 = 0.318
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5886/  250000, loss_seg1 = 0.804 loss_seg2 = 0.401 loss_adv1 = 4.966, loss_adv2 = 3.756 loss_D1 = 0.091 loss_D2 = 0.182
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5887/  250000, loss_seg1 = 0.233 loss_seg2 = 0.193 loss_adv1 = 4.493, loss_adv2 = 3.684 loss_D1 = 0.151 loss_D2 = 0.321
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5888/  250000, loss_seg1 = 0.209 loss_seg2 = 0.150 loss_adv1 = 3.466, loss_adv2 = 2.144 loss_D1 = 0.147 loss_D2 = 0.323
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5889/  250000, loss_seg1 = 0.138 loss_seg2 = 0.117 loss_adv1 = 3.618, loss_adv2 = 2.109 loss_D1 = 0.160 loss_D2 = 0.314
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5890/  250000, loss_seg1 = 0.298 loss_seg2 = 0.168 loss_adv1 = 4.203, loss_adv2 = 2.375 loss_D1 = 0.219 loss_D2 = 0.487
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5891/  250000, loss_seg1 = 0.310 loss_seg2 = 0.185 loss_adv1 = 5.748, loss_adv2 = 4.440 loss_D1 = 0.112 loss_D2 = 0.196
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5892/  250000, loss_seg1 = 0.173 loss_seg2 = 0.138 loss_adv1 = 4.682, loss_adv2 = 4.323 loss_D1 = 0.219 loss_D2 = 0.216
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5893/  250000, loss_seg1 = 0.343 loss_seg2 = 0.220 loss_adv1 = 3.838, loss_adv2 = 2.495 loss_D1 = 0.200 loss_D2 = 0.281
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5894/  250000, loss_seg1 = 0.385 loss_seg2 = 0.503 loss_adv1 = 3.506, loss_adv2 = 2.252 loss_D1 = 0.526 loss_D2 = 0.346
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5895/  250000, loss_seg1 = 0.372 loss_seg2 = 0.317 loss_adv1 = 5.083, loss_adv2 = 3.530 loss_D1 = 0.164 loss_D2 = 0.298
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5896/  250000, loss_seg1 = 0.175 loss_seg2 = 0.137 loss_adv1 = 3.657, loss_adv2 = 2.220 loss_D1 = 0.205 loss_D2 = 0.377
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5897/  250000, loss_seg1 = 0.419 loss_seg2 = 0.293 loss_adv1 = 3.713, loss_adv2 = 2.080 loss_D1 = 0.391 loss_D2 = 0.412
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5898/  250000, loss_seg1 = 0.525 loss_seg2 = 0.505 loss_adv1 = 3.733, loss_adv2 = 1.967 loss_D1 = 0.299 loss_D2 = 0.414
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5899/  250000, loss_seg1 = 0.953 loss_seg2 = 0.657 loss_adv1 = 3.370, loss_adv2 = 2.024 loss_D1 = 0.557 loss_D2 = 0.494
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5900/  250000, loss_seg1 = 0.171 loss_seg2 = 0.133 loss_adv1 = 4.589, loss_adv2 = 3.748 loss_D1 = 0.102 loss_D2 = 0.227
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5901/  250000, loss_seg1 = 0.247 loss_seg2 = 0.182 loss_adv1 = 4.223, loss_adv2 = 3.477 loss_D1 = 0.138 loss_D2 = 0.242
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5902/  250000, loss_seg1 = 0.958 loss_seg2 = 0.761 loss_adv1 = 3.585, loss_adv2 = 2.510 loss_D1 = 0.267 loss_D2 = 0.337
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5903/  250000, loss_seg1 = 0.184 loss_seg2 = 0.131 loss_adv1 = 3.531, loss_adv2 = 2.477 loss_D1 = 0.255 loss_D2 = 0.333
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5904/  250000, loss_seg1 = 0.247 loss_seg2 = 0.177 loss_adv1 = 2.828, loss_adv2 = 2.188 loss_D1 = 0.263 loss_D2 = 0.409
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5905/  250000, loss_seg1 = 0.407 loss_seg2 = 0.325 loss_adv1 = 3.414, loss_adv2 = 2.652 loss_D1 = 0.247 loss_D2 = 0.320
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5906/  250000, loss_seg1 = 0.334 loss_seg2 = 0.275 loss_adv1 = 3.074, loss_adv2 = 2.172 loss_D1 = 0.393 loss_D2 = 0.422
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5907/  250000, loss_seg1 = 0.242 loss_seg2 = 0.162 loss_adv1 = 2.736, loss_adv2 = 2.392 loss_D1 = 0.305 loss_D2 = 0.374
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5908/  250000, loss_seg1 = 0.153 loss_seg2 = 0.120 loss_adv1 = 3.982, loss_adv2 = 3.024 loss_D1 = 0.149 loss_D2 = 0.285
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5909/  250000, loss_seg1 = 0.183 loss_seg2 = 0.147 loss_adv1 = 4.447, loss_adv2 = 4.279 loss_D1 = 0.132 loss_D2 = 0.205
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5910/  250000, loss_seg1 = 0.246 loss_seg2 = 0.198 loss_adv1 = 2.857, loss_adv2 = 2.290 loss_D1 = 0.281 loss_D2 = 0.346
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5911/  250000, loss_seg1 = 0.580 loss_seg2 = 0.383 loss_adv1 = 3.807, loss_adv2 = 3.547 loss_D1 = 0.332 loss_D2 = 0.282
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5912/  250000, loss_seg1 = 0.538 loss_seg2 = 0.474 loss_adv1 = 3.700, loss_adv2 = 3.620 loss_D1 = 0.359 loss_D2 = 0.328
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5913/  250000, loss_seg1 = 0.219 loss_seg2 = 0.183 loss_adv1 = 3.839, loss_adv2 = 4.227 loss_D1 = 0.170 loss_D2 = 0.237
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5914/  250000, loss_seg1 = 0.327 loss_seg2 = 0.273 loss_adv1 = 3.815, loss_adv2 = 4.055 loss_D1 = 0.162 loss_D2 = 0.261
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5915/  250000, loss_seg1 = 0.200 loss_seg2 = 0.133 loss_adv1 = 2.646, loss_adv2 = 2.295 loss_D1 = 0.297 loss_D2 = 0.345
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5916/  250000, loss_seg1 = 0.293 loss_seg2 = 0.197 loss_adv1 = 2.379, loss_adv2 = 2.191 loss_D1 = 0.253 loss_D2 = 0.372
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5917/  250000, loss_seg1 = 0.233 loss_seg2 = 0.193 loss_adv1 = 2.542, loss_adv2 = 1.936 loss_D1 = 0.454 loss_D2 = 0.576
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5918/  250000, loss_seg1 = 0.266 loss_seg2 = 0.268 loss_adv1 = 3.715, loss_adv2 = 4.756 loss_D1 = 0.195 loss_D2 = 0.187
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5919/  250000, loss_seg1 = 0.543 loss_seg2 = 0.360 loss_adv1 = 2.531, loss_adv2 = 2.448 loss_D1 = 0.240 loss_D2 = 0.325
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5920/  250000, loss_seg1 = 0.277 loss_seg2 = 0.170 loss_adv1 = 2.757, loss_adv2 = 1.956 loss_D1 = 0.300 loss_D2 = 0.451
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5921/  250000, loss_seg1 = 0.193 loss_seg2 = 0.162 loss_adv1 = 4.190, loss_adv2 = 4.281 loss_D1 = 0.236 loss_D2 = 0.191
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5922/  250000, loss_seg1 = 0.220 loss_seg2 = 0.164 loss_adv1 = 4.451, loss_adv2 = 4.814 loss_D1 = 0.098 loss_D2 = 0.123
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5923/  250000, loss_seg1 = 0.250 loss_seg2 = 0.196 loss_adv1 = 4.290, loss_adv2 = 4.187 loss_D1 = 0.181 loss_D2 = 0.288
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5924/  250000, loss_seg1 = 0.304 loss_seg2 = 0.250 loss_adv1 = 3.464, loss_adv2 = 2.864 loss_D1 = 0.201 loss_D2 = 0.370
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5925/  250000, loss_seg1 = 0.408 loss_seg2 = 0.273 loss_adv1 = 3.351, loss_adv2 = 2.445 loss_D1 = 0.402 loss_D2 = 0.547
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5926/  250000, loss_seg1 = 0.165 loss_seg2 = 0.104 loss_adv1 = 5.006, loss_adv2 = 4.321 loss_D1 = 0.091 loss_D2 = 0.218
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5927/  250000, loss_seg1 = 0.348 loss_seg2 = 0.190 loss_adv1 = 3.412, loss_adv2 = 2.136 loss_D1 = 0.283 loss_D2 = 0.430
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5928/  250000, loss_seg1 = 0.117 loss_seg2 = 0.092 loss_adv1 = 2.505, loss_adv2 = 2.707 loss_D1 = 0.222 loss_D2 = 0.320
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5929/  250000, loss_seg1 = 0.193 loss_seg2 = 0.154 loss_adv1 = 3.410, loss_adv2 = 2.081 loss_D1 = 0.273 loss_D2 = 0.512
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5930/  250000, loss_seg1 = 0.312 loss_seg2 = 0.247 loss_adv1 = 5.578, loss_adv2 = 3.938 loss_D1 = 0.102 loss_D2 = 0.208
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5931/  250000, loss_seg1 = 0.640 loss_seg2 = 0.506 loss_adv1 = 3.460, loss_adv2 = 1.956 loss_D1 = 0.530 loss_D2 = 0.483
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5932/  250000, loss_seg1 = 0.219 loss_seg2 = 0.183 loss_adv1 = 5.105, loss_adv2 = 3.409 loss_D1 = 0.088 loss_D2 = 0.208
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5933/  250000, loss_seg1 = 0.758 loss_seg2 = 0.501 loss_adv1 = 3.703, loss_adv2 = 2.263 loss_D1 = 0.246 loss_D2 = 0.324
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5934/  250000, loss_seg1 = 0.273 loss_seg2 = 0.239 loss_adv1 = 2.759, loss_adv2 = 1.854 loss_D1 = 0.157 loss_D2 = 0.361
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5935/  250000, loss_seg1 = 0.196 loss_seg2 = 0.156 loss_adv1 = 5.424, loss_adv2 = 3.832 loss_D1 = 0.096 loss_D2 = 0.207
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5936/  250000, loss_seg1 = 0.176 loss_seg2 = 0.132 loss_adv1 = 2.734, loss_adv2 = 2.240 loss_D1 = 0.265 loss_D2 = 0.295
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5937/  250000, loss_seg1 = 0.255 loss_seg2 = 0.164 loss_adv1 = 2.833, loss_adv2 = 2.316 loss_D1 = 0.248 loss_D2 = 0.391
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5938/  250000, loss_seg1 = 0.270 loss_seg2 = 0.167 loss_adv1 = 2.293, loss_adv2 = 1.913 loss_D1 = 0.620 loss_D2 = 0.616
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5939/  250000, loss_seg1 = 0.857 loss_seg2 = 0.425 loss_adv1 = 3.056, loss_adv2 = 2.760 loss_D1 = 1.359 loss_D2 = 0.751
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5940/  250000, loss_seg1 = 0.228 loss_seg2 = 0.133 loss_adv1 = 5.014, loss_adv2 = 4.749 loss_D1 = 0.185 loss_D2 = 0.248
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5941/  250000, loss_seg1 = 0.396 loss_seg2 = 0.308 loss_adv1 = 3.121, loss_adv2 = 3.535 loss_D1 = 0.244 loss_D2 = 0.330
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5942/  250000, loss_seg1 = 0.290 loss_seg2 = 0.203 loss_adv1 = 2.819, loss_adv2 = 3.077 loss_D1 = 0.488 loss_D2 = 0.407
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5943/  250000, loss_seg1 = 0.423 loss_seg2 = 0.173 loss_adv1 = 5.745, loss_adv2 = 5.200 loss_D1 = 0.155 loss_D2 = 0.193
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5944/  250000, loss_seg1 = 0.144 loss_seg2 = 0.128 loss_adv1 = 4.255, loss_adv2 = 2.836 loss_D1 = 0.142 loss_D2 = 0.415
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5945/  250000, loss_seg1 = 0.165 loss_seg2 = 0.137 loss_adv1 = 2.549, loss_adv2 = 2.415 loss_D1 = 0.309 loss_D2 = 0.386
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5946/  250000, loss_seg1 = 0.449 loss_seg2 = 0.336 loss_adv1 = 4.001, loss_adv2 = 2.152 loss_D1 = 0.193 loss_D2 = 0.487
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5947/  250000, loss_seg1 = 0.245 loss_seg2 = 0.209 loss_adv1 = 2.543, loss_adv2 = 2.539 loss_D1 = 0.298 loss_D2 = 0.429
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5948/  250000, loss_seg1 = 0.187 loss_seg2 = 0.140 loss_adv1 = 3.308, loss_adv2 = 2.148 loss_D1 = 0.249 loss_D2 = 0.441
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5949/  250000, loss_seg1 = 0.191 loss_seg2 = 0.140 loss_adv1 = 3.973, loss_adv2 = 3.595 loss_D1 = 0.132 loss_D2 = 0.168
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5950/  250000, loss_seg1 = 0.211 loss_seg2 = 0.155 loss_adv1 = 2.630, loss_adv2 = 2.294 loss_D1 = 0.276 loss_D2 = 0.310
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5951/  250000, loss_seg1 = 0.202 loss_seg2 = 0.158 loss_adv1 = 4.149, loss_adv2 = 4.495 loss_D1 = 0.123 loss_D2 = 0.150
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5952/  250000, loss_seg1 = 0.186 loss_seg2 = 0.124 loss_adv1 = 2.925, loss_adv2 = 2.056 loss_D1 = 0.343 loss_D2 = 0.414
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5953/  250000, loss_seg1 = 0.184 loss_seg2 = 0.160 loss_adv1 = 4.290, loss_adv2 = 4.678 loss_D1 = 0.165 loss_D2 = 0.182
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5954/  250000, loss_seg1 = 0.420 loss_seg2 = 0.226 loss_adv1 = 2.769, loss_adv2 = 3.212 loss_D1 = 0.386 loss_D2 = 0.353
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5955/  250000, loss_seg1 = 0.269 loss_seg2 = 0.236 loss_adv1 = 2.757, loss_adv2 = 2.123 loss_D1 = 0.418 loss_D2 = 0.553
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5956/  250000, loss_seg1 = 0.420 loss_seg2 = 0.512 loss_adv1 = 2.633, loss_adv2 = 2.018 loss_D1 = 0.323 loss_D2 = 0.429
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5957/  250000, loss_seg1 = 0.218 loss_seg2 = 0.154 loss_adv1 = 2.649, loss_adv2 = 2.249 loss_D1 = 0.336 loss_D2 = 0.319
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5958/  250000, loss_seg1 = 2.266 loss_seg2 = 1.658 loss_adv1 = 3.144, loss_adv2 = 3.264 loss_D1 = 0.398 loss_D2 = 0.396
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5959/  250000, loss_seg1 = 0.434 loss_seg2 = 0.323 loss_adv1 = 2.802, loss_adv2 = 2.180 loss_D1 = 0.317 loss_D2 = 0.353
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5960/  250000, loss_seg1 = 0.295 loss_seg2 = 0.225 loss_adv1 = 3.468, loss_adv2 = 2.862 loss_D1 = 0.243 loss_D2 = 0.268
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5961/  250000, loss_seg1 = 0.337 loss_seg2 = 0.235 loss_adv1 = 2.879, loss_adv2 = 1.896 loss_D1 = 0.368 loss_D2 = 0.422
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5962/  250000, loss_seg1 = 0.316 loss_seg2 = 0.226 loss_adv1 = 2.600, loss_adv2 = 2.235 loss_D1 = 0.240 loss_D2 = 0.242
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5963/  250000, loss_seg1 = 0.395 loss_seg2 = 0.172 loss_adv1 = 2.543, loss_adv2 = 2.102 loss_D1 = 0.282 loss_D2 = 0.352
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5964/  250000, loss_seg1 = 0.279 loss_seg2 = 0.149 loss_adv1 = 3.512, loss_adv2 = 2.587 loss_D1 = 0.217 loss_D2 = 0.316
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5965/  250000, loss_seg1 = 0.216 loss_seg2 = 0.156 loss_adv1 = 3.661, loss_adv2 = 3.331 loss_D1 = 0.210 loss_D2 = 0.265
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5966/  250000, loss_seg1 = 0.213 loss_seg2 = 0.189 loss_adv1 = 3.351, loss_adv2 = 2.342 loss_D1 = 0.151 loss_D2 = 0.339
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5967/  250000, loss_seg1 = 0.470 loss_seg2 = 0.377 loss_adv1 = 3.472, loss_adv2 = 2.922 loss_D1 = 0.490 loss_D2 = 0.598
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5968/  250000, loss_seg1 = 0.205 loss_seg2 = 0.168 loss_adv1 = 3.549, loss_adv2 = 2.308 loss_D1 = 0.224 loss_D2 = 0.364
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5969/  250000, loss_seg1 = 0.200 loss_seg2 = 0.200 loss_adv1 = 3.696, loss_adv2 = 2.080 loss_D1 = 0.264 loss_D2 = 0.411
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5970/  250000, loss_seg1 = 0.275 loss_seg2 = 0.183 loss_adv1 = 4.159, loss_adv2 = 3.725 loss_D1 = 0.364 loss_D2 = 0.261
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5971/  250000, loss_seg1 = 0.245 loss_seg2 = 0.206 loss_adv1 = 4.593, loss_adv2 = 3.883 loss_D1 = 0.187 loss_D2 = 0.208
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5972/  250000, loss_seg1 = 0.282 loss_seg2 = 0.219 loss_adv1 = 3.530, loss_adv2 = 2.268 loss_D1 = 0.375 loss_D2 = 0.368
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5973/  250000, loss_seg1 = 0.239 loss_seg2 = 0.197 loss_adv1 = 3.245, loss_adv2 = 2.384 loss_D1 = 0.290 loss_D2 = 0.375
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5974/  250000, loss_seg1 = 0.502 loss_seg2 = 0.332 loss_adv1 = 3.418, loss_adv2 = 2.860 loss_D1 = 0.202 loss_D2 = 0.321
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5975/  250000, loss_seg1 = 0.357 loss_seg2 = 0.272 loss_adv1 = 3.480, loss_adv2 = 2.483 loss_D1 = 0.209 loss_D2 = 0.374
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5976/  250000, loss_seg1 = 0.482 loss_seg2 = 0.474 loss_adv1 = 3.439, loss_adv2 = 2.382 loss_D1 = 0.262 loss_D2 = 0.395
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5977/  250000, loss_seg1 = 0.594 loss_seg2 = 0.377 loss_adv1 = 3.557, loss_adv2 = 2.416 loss_D1 = 0.415 loss_D2 = 0.416
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5978/  250000, loss_seg1 = 0.136 loss_seg2 = 0.120 loss_adv1 = 2.747, loss_adv2 = 2.334 loss_D1 = 0.259 loss_D2 = 0.372
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5979/  250000, loss_seg1 = 0.319 loss_seg2 = 0.216 loss_adv1 = 4.124, loss_adv2 = 2.992 loss_D1 = 0.129 loss_D2 = 0.276
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5980/  250000, loss_seg1 = 0.295 loss_seg2 = 0.246 loss_adv1 = 3.325, loss_adv2 = 2.594 loss_D1 = 0.228 loss_D2 = 0.345
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5981/  250000, loss_seg1 = 0.493 loss_seg2 = 0.302 loss_adv1 = 4.991, loss_adv2 = 3.640 loss_D1 = 0.156 loss_D2 = 0.281
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5982/  250000, loss_seg1 = 0.679 loss_seg2 = 0.587 loss_adv1 = 2.317, loss_adv2 = 1.002 loss_D1 = 0.962 loss_D2 = 1.273
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5983/  250000, loss_seg1 = 0.213 loss_seg2 = 0.163 loss_adv1 = 4.574, loss_adv2 = 3.864 loss_D1 = 0.123 loss_D2 = 0.275
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5984/  250000, loss_seg1 = 0.184 loss_seg2 = 0.145 loss_adv1 = 4.781, loss_adv2 = 4.273 loss_D1 = 0.112 loss_D2 = 0.213
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5985/  250000, loss_seg1 = 0.223 loss_seg2 = 0.198 loss_adv1 = 3.662, loss_adv2 = 2.601 loss_D1 = 0.210 loss_D2 = 0.416
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5986/  250000, loss_seg1 = 0.202 loss_seg2 = 0.162 loss_adv1 = 3.952, loss_adv2 = 2.853 loss_D1 = 0.183 loss_D2 = 0.418
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5987/  250000, loss_seg1 = 0.358 loss_seg2 = 0.241 loss_adv1 = 2.207, loss_adv2 = 2.732 loss_D1 = 0.359 loss_D2 = 0.362
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5988/  250000, loss_seg1 = 0.945 loss_seg2 = 0.577 loss_adv1 = 4.092, loss_adv2 = 3.302 loss_D1 = 0.358 loss_D2 = 0.530
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5989/  250000, loss_seg1 = 0.333 loss_seg2 = 0.198 loss_adv1 = 4.847, loss_adv2 = 4.270 loss_D1 = 0.161 loss_D2 = 0.283
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5990/  250000, loss_seg1 = 0.287 loss_seg2 = 0.201 loss_adv1 = 4.462, loss_adv2 = 4.125 loss_D1 = 0.111 loss_D2 = 0.268
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5991/  250000, loss_seg1 = 0.260 loss_seg2 = 0.202 loss_adv1 = 2.573, loss_adv2 = 2.083 loss_D1 = 0.580 loss_D2 = 0.645
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5992/  250000, loss_seg1 = 1.343 loss_seg2 = 0.504 loss_adv1 = 2.554, loss_adv2 = 2.169 loss_D1 = 0.348 loss_D2 = 0.395
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5993/  250000, loss_seg1 = 0.410 loss_seg2 = 0.180 loss_adv1 = 2.714, loss_adv2 = 2.426 loss_D1 = 0.390 loss_D2 = 0.332
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5994/  250000, loss_seg1 = 0.269 loss_seg2 = 0.173 loss_adv1 = 4.744, loss_adv2 = 2.823 loss_D1 = 0.122 loss_D2 = 0.304
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5995/  250000, loss_seg1 = 0.951 loss_seg2 = 0.748 loss_adv1 = 3.176, loss_adv2 = 1.724 loss_D1 = 0.208 loss_D2 = 0.312
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5996/  250000, loss_seg1 = 0.130 loss_seg2 = 0.117 loss_adv1 = 3.896, loss_adv2 = 3.040 loss_D1 = 0.173 loss_D2 = 0.289
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5997/  250000, loss_seg1 = 0.148 loss_seg2 = 0.120 loss_adv1 = 3.407, loss_adv2 = 2.080 loss_D1 = 0.137 loss_D2 = 0.306
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5998/  250000, loss_seg1 = 0.151 loss_seg2 = 0.127 loss_adv1 = 3.641, loss_adv2 = 2.058 loss_D1 = 0.215 loss_D2 = 0.431
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     5999/  250000, loss_seg1 = 0.379 loss_seg2 = 0.302 loss_adv1 = 4.312, loss_adv2 = 3.185 loss_D1 = 0.160 loss_D2 = 0.226
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6000/  250000, loss_seg1 = 0.292 loss_seg2 = 0.250 loss_adv1 = 3.530, loss_adv2 = 2.610 loss_D1 = 0.145 loss_D2 = 0.281
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6001/  250000, loss_seg1 = 0.168 loss_seg2 = 0.121 loss_adv1 = 3.588, loss_adv2 = 2.966 loss_D1 = 0.162 loss_D2 = 0.275
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6002/  250000, loss_seg1 = 0.269 loss_seg2 = 0.140 loss_adv1 = 3.446, loss_adv2 = 2.239 loss_D1 = 0.263 loss_D2 = 0.389
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6003/  250000, loss_seg1 = 0.241 loss_seg2 = 0.225 loss_adv1 = 3.705, loss_adv2 = 2.171 loss_D1 = 0.324 loss_D2 = 0.373
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6004/  250000, loss_seg1 = 0.324 loss_seg2 = 0.271 loss_adv1 = 3.417, loss_adv2 = 2.532 loss_D1 = 0.305 loss_D2 = 0.392
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6005/  250000, loss_seg1 = 0.623 loss_seg2 = 0.287 loss_adv1 = 4.617, loss_adv2 = 3.633 loss_D1 = 0.267 loss_D2 = 0.270
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6006/  250000, loss_seg1 = 0.142 loss_seg2 = 0.123 loss_adv1 = 2.898, loss_adv2 = 2.386 loss_D1 = 0.277 loss_D2 = 0.364
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6007/  250000, loss_seg1 = 0.134 loss_seg2 = 0.108 loss_adv1 = 4.423, loss_adv2 = 3.706 loss_D1 = 0.127 loss_D2 = 0.246
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6008/  250000, loss_seg1 = 0.262 loss_seg2 = 0.198 loss_adv1 = 3.400, loss_adv2 = 2.819 loss_D1 = 0.210 loss_D2 = 0.317
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6009/  250000, loss_seg1 = 0.201 loss_seg2 = 0.167 loss_adv1 = 4.096, loss_adv2 = 2.490 loss_D1 = 0.246 loss_D2 = 0.461
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6010/  250000, loss_seg1 = 0.416 loss_seg2 = 0.297 loss_adv1 = 3.293, loss_adv2 = 2.578 loss_D1 = 0.154 loss_D2 = 0.270
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6011/  250000, loss_seg1 = 0.473 loss_seg2 = 0.263 loss_adv1 = 5.099, loss_adv2 = 3.856 loss_D1 = 0.125 loss_D2 = 0.246
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6012/  250000, loss_seg1 = 0.244 loss_seg2 = 0.175 loss_adv1 = 4.541, loss_adv2 = 2.761 loss_D1 = 0.181 loss_D2 = 0.347
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6013/  250000, loss_seg1 = 0.331 loss_seg2 = 0.204 loss_adv1 = 2.563, loss_adv2 = 2.368 loss_D1 = 0.430 loss_D2 = 0.336
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6014/  250000, loss_seg1 = 0.302 loss_seg2 = 0.240 loss_adv1 = 4.429, loss_adv2 = 2.349 loss_D1 = 0.157 loss_D2 = 0.325
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6015/  250000, loss_seg1 = 0.243 loss_seg2 = 0.187 loss_adv1 = 2.310, loss_adv2 = 2.388 loss_D1 = 0.400 loss_D2 = 0.305
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6016/  250000, loss_seg1 = 0.307 loss_seg2 = 0.217 loss_adv1 = 4.405, loss_adv2 = 2.487 loss_D1 = 0.201 loss_D2 = 0.382
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6017/  250000, loss_seg1 = 1.119 loss_seg2 = 0.435 loss_adv1 = 2.424, loss_adv2 = 2.558 loss_D1 = 0.685 loss_D2 = 0.424
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6018/  250000, loss_seg1 = 0.344 loss_seg2 = 0.181 loss_adv1 = 4.468, loss_adv2 = 2.618 loss_D1 = 0.170 loss_D2 = 0.368
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6019/  250000, loss_seg1 = 0.241 loss_seg2 = 0.114 loss_adv1 = 2.826, loss_adv2 = 2.173 loss_D1 = 0.253 loss_D2 = 0.381
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6020/  250000, loss_seg1 = 0.166 loss_seg2 = 0.130 loss_adv1 = 3.676, loss_adv2 = 2.205 loss_D1 = 0.142 loss_D2 = 0.335
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6021/  250000, loss_seg1 = 0.213 loss_seg2 = 0.153 loss_adv1 = 4.144, loss_adv2 = 2.897 loss_D1 = 0.091 loss_D2 = 0.282
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6022/  250000, loss_seg1 = 0.110 loss_seg2 = 0.076 loss_adv1 = 4.674, loss_adv2 = 4.002 loss_D1 = 0.174 loss_D2 = 0.159
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6023/  250000, loss_seg1 = 0.308 loss_seg2 = 0.262 loss_adv1 = 5.673, loss_adv2 = 4.288 loss_D1 = 0.236 loss_D2 = 0.222
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6024/  250000, loss_seg1 = 0.589 loss_seg2 = 0.332 loss_adv1 = 4.560, loss_adv2 = 3.770 loss_D1 = 0.296 loss_D2 = 0.238
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6025/  250000, loss_seg1 = 0.549 loss_seg2 = 0.375 loss_adv1 = 2.928, loss_adv2 = 2.398 loss_D1 = 0.581 loss_D2 = 0.655
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6026/  250000, loss_seg1 = 1.721 loss_seg2 = 1.650 loss_adv1 = 3.284, loss_adv2 = 3.593 loss_D1 = 0.466 loss_D2 = 0.423
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6027/  250000, loss_seg1 = 0.387 loss_seg2 = 0.320 loss_adv1 = 3.633, loss_adv2 = 3.685 loss_D1 = 0.222 loss_D2 = 0.248
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6028/  250000, loss_seg1 = 0.332 loss_seg2 = 0.157 loss_adv1 = 4.199, loss_adv2 = 4.127 loss_D1 = 0.196 loss_D2 = 0.238
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6029/  250000, loss_seg1 = 0.504 loss_seg2 = 0.370 loss_adv1 = 2.853, loss_adv2 = 2.737 loss_D1 = 0.741 loss_D2 = 0.338
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6030/  250000, loss_seg1 = 0.466 loss_seg2 = 0.261 loss_adv1 = 3.814, loss_adv2 = 3.274 loss_D1 = 0.257 loss_D2 = 0.341
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6031/  250000, loss_seg1 = 0.238 loss_seg2 = 0.139 loss_adv1 = 4.144, loss_adv2 = 4.203 loss_D1 = 0.359 loss_D2 = 0.238
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6032/  250000, loss_seg1 = 0.603 loss_seg2 = 0.310 loss_adv1 = 3.726, loss_adv2 = 3.649 loss_D1 = 0.244 loss_D2 = 0.207
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6033/  250000, loss_seg1 = 0.878 loss_seg2 = 0.528 loss_adv1 = 2.297, loss_adv2 = 2.438 loss_D1 = 0.438 loss_D2 = 0.342
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6034/  250000, loss_seg1 = 0.331 loss_seg2 = 0.260 loss_adv1 = 2.645, loss_adv2 = 3.429 loss_D1 = 0.384 loss_D2 = 0.314
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6035/  250000, loss_seg1 = 1.251 loss_seg2 = 0.755 loss_adv1 = 2.840, loss_adv2 = 3.706 loss_D1 = 0.311 loss_D2 = 0.252
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6036/  250000, loss_seg1 = 0.259 loss_seg2 = 0.112 loss_adv1 = 2.341, loss_adv2 = 2.875 loss_D1 = 0.282 loss_D2 = 0.304
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6037/  250000, loss_seg1 = 0.250 loss_seg2 = 0.199 loss_adv1 = 2.929, loss_adv2 = 4.149 loss_D1 = 0.271 loss_D2 = 0.244
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6038/  250000, loss_seg1 = 0.440 loss_seg2 = 0.323 loss_adv1 = 2.413, loss_adv2 = 4.297 loss_D1 = 0.341 loss_D2 = 0.195
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6039/  250000, loss_seg1 = 0.902 loss_seg2 = 0.551 loss_adv1 = 2.625, loss_adv2 = 2.009 loss_D1 = 1.110 loss_D2 = 1.239
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6040/  250000, loss_seg1 = 0.153 loss_seg2 = 0.162 loss_adv1 = 2.288, loss_adv2 = 1.759 loss_D1 = 0.297 loss_D2 = 0.483
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6041/  250000, loss_seg1 = 0.560 loss_seg2 = 0.312 loss_adv1 = 2.253, loss_adv2 = 1.723 loss_D1 = 0.470 loss_D2 = 0.581
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6042/  250000, loss_seg1 = 0.440 loss_seg2 = 0.244 loss_adv1 = 2.612, loss_adv2 = 3.197 loss_D1 = 0.380 loss_D2 = 0.377
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6043/  250000, loss_seg1 = 0.333 loss_seg2 = 0.193 loss_adv1 = 3.163, loss_adv2 = 4.103 loss_D1 = 0.156 loss_D2 = 0.178
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6044/  250000, loss_seg1 = 0.198 loss_seg2 = 0.202 loss_adv1 = 2.918, loss_adv2 = 3.517 loss_D1 = 0.175 loss_D2 = 0.254
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6045/  250000, loss_seg1 = 0.166 loss_seg2 = 0.126 loss_adv1 = 1.959, loss_adv2 = 1.993 loss_D1 = 0.437 loss_D2 = 0.417
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6046/  250000, loss_seg1 = 1.057 loss_seg2 = 0.375 loss_adv1 = 1.983, loss_adv2 = 2.293 loss_D1 = 0.481 loss_D2 = 0.337
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6047/  250000, loss_seg1 = 0.194 loss_seg2 = 0.205 loss_adv1 = 1.669, loss_adv2 = 1.932 loss_D1 = 0.471 loss_D2 = 0.412
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6048/  250000, loss_seg1 = 0.239 loss_seg2 = 0.242 loss_adv1 = 2.967, loss_adv2 = 3.361 loss_D1 = 0.204 loss_D2 = 0.190
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6049/  250000, loss_seg1 = 0.304 loss_seg2 = 0.223 loss_adv1 = 1.990, loss_adv2 = 2.413 loss_D1 = 0.437 loss_D2 = 0.374
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6050/  250000, loss_seg1 = 0.432 loss_seg2 = 0.189 loss_adv1 = 1.745, loss_adv2 = 2.468 loss_D1 = 0.590 loss_D2 = 0.376
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6051/  250000, loss_seg1 = 0.498 loss_seg2 = 0.387 loss_adv1 = 1.964, loss_adv2 = 1.944 loss_D1 = 0.358 loss_D2 = 0.373
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6052/  250000, loss_seg1 = 0.229 loss_seg2 = 0.172 loss_adv1 = 1.958, loss_adv2 = 2.080 loss_D1 = 0.460 loss_D2 = 0.378
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6053/  250000, loss_seg1 = 0.561 loss_seg2 = 0.448 loss_adv1 = 2.547, loss_adv2 = 2.268 loss_D1 = 0.501 loss_D2 = 0.467
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6054/  250000, loss_seg1 = 0.666 loss_seg2 = 0.494 loss_adv1 = 2.001, loss_adv2 = 2.381 loss_D1 = 0.462 loss_D2 = 0.378
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6055/  250000, loss_seg1 = 0.474 loss_seg2 = 0.218 loss_adv1 = 3.110, loss_adv2 = 3.157 loss_D1 = 0.283 loss_D2 = 0.251
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6056/  250000, loss_seg1 = 0.343 loss_seg2 = 0.206 loss_adv1 = 2.069, loss_adv2 = 2.159 loss_D1 = 0.317 loss_D2 = 0.356
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6057/  250000, loss_seg1 = 0.205 loss_seg2 = 0.142 loss_adv1 = 1.787, loss_adv2 = 2.393 loss_D1 = 0.421 loss_D2 = 0.359
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6058/  250000, loss_seg1 = 0.368 loss_seg2 = 0.261 loss_adv1 = 1.927, loss_adv2 = 2.538 loss_D1 = 0.382 loss_D2 = 0.355
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6059/  250000, loss_seg1 = 0.651 loss_seg2 = 0.389 loss_adv1 = 4.457, loss_adv2 = 3.936 loss_D1 = 0.249 loss_D2 = 0.224
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6060/  250000, loss_seg1 = 0.349 loss_seg2 = 0.132 loss_adv1 = 3.182, loss_adv2 = 2.631 loss_D1 = 0.309 loss_D2 = 0.406
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6061/  250000, loss_seg1 = 0.307 loss_seg2 = 0.208 loss_adv1 = 3.950, loss_adv2 = 3.487 loss_D1 = 0.267 loss_D2 = 0.279
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6062/  250000, loss_seg1 = 0.210 loss_seg2 = 0.145 loss_adv1 = 3.571, loss_adv2 = 2.429 loss_D1 = 0.266 loss_D2 = 0.365
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6063/  250000, loss_seg1 = 0.326 loss_seg2 = 0.202 loss_adv1 = 2.581, loss_adv2 = 2.377 loss_D1 = 0.361 loss_D2 = 0.387
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6064/  250000, loss_seg1 = 0.443 loss_seg2 = 0.337 loss_adv1 = 3.653, loss_adv2 = 2.323 loss_D1 = 0.248 loss_D2 = 0.405
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6065/  250000, loss_seg1 = 0.211 loss_seg2 = 0.152 loss_adv1 = 3.566, loss_adv2 = 3.698 loss_D1 = 0.273 loss_D2 = 0.220
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6066/  250000, loss_seg1 = 0.209 loss_seg2 = 0.135 loss_adv1 = 4.057, loss_adv2 = 3.581 loss_D1 = 0.271 loss_D2 = 0.251
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6067/  250000, loss_seg1 = 0.379 loss_seg2 = 0.262 loss_adv1 = 3.698, loss_adv2 = 3.614 loss_D1 = 0.294 loss_D2 = 0.360
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6068/  250000, loss_seg1 = 0.430 loss_seg2 = 0.505 loss_adv1 = 3.367, loss_adv2 = 3.719 loss_D1 = 0.526 loss_D2 = 0.449
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6069/  250000, loss_seg1 = 0.331 loss_seg2 = 0.220 loss_adv1 = 3.722, loss_adv2 = 3.546 loss_D1 = 0.185 loss_D2 = 0.223
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6070/  250000, loss_seg1 = 0.824 loss_seg2 = 0.665 loss_adv1 = 3.818, loss_adv2 = 3.922 loss_D1 = 0.161 loss_D2 = 0.189
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6071/  250000, loss_seg1 = 0.241 loss_seg2 = 0.161 loss_adv1 = 3.190, loss_adv2 = 2.479 loss_D1 = 0.189 loss_D2 = 0.362
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6072/  250000, loss_seg1 = 0.220 loss_seg2 = 0.144 loss_adv1 = 3.682, loss_adv2 = 3.836 loss_D1 = 0.148 loss_D2 = 0.156
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6073/  250000, loss_seg1 = 1.093 loss_seg2 = 0.789 loss_adv1 = 3.696, loss_adv2 = 3.847 loss_D1 = 0.213 loss_D2 = 0.207
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6074/  250000, loss_seg1 = 0.165 loss_seg2 = 0.120 loss_adv1 = 2.341, loss_adv2 = 2.010 loss_D1 = 0.217 loss_D2 = 0.337
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6075/  250000, loss_seg1 = 0.246 loss_seg2 = 0.193 loss_adv1 = 1.879, loss_adv2 = 2.201 loss_D1 = 0.351 loss_D2 = 0.395
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6076/  250000, loss_seg1 = 0.244 loss_seg2 = 0.176 loss_adv1 = 3.519, loss_adv2 = 3.827 loss_D1 = 0.266 loss_D2 = 0.255
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6077/  250000, loss_seg1 = 0.337 loss_seg2 = 0.214 loss_adv1 = 2.197, loss_adv2 = 1.901 loss_D1 = 0.283 loss_D2 = 0.417
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6078/  250000, loss_seg1 = 0.907 loss_seg2 = 0.279 loss_adv1 = 3.577, loss_adv2 = 3.587 loss_D1 = 0.156 loss_D2 = 0.208
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6079/  250000, loss_seg1 = 0.264 loss_seg2 = 0.200 loss_adv1 = 2.481, loss_adv2 = 2.229 loss_D1 = 0.385 loss_D2 = 0.372
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6080/  250000, loss_seg1 = 0.360 loss_seg2 = 0.235 loss_adv1 = 2.739, loss_adv2 = 2.188 loss_D1 = 0.212 loss_D2 = 0.271
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6081/  250000, loss_seg1 = 0.332 loss_seg2 = 0.270 loss_adv1 = 2.450, loss_adv2 = 2.490 loss_D1 = 0.394 loss_D2 = 0.365
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6082/  250000, loss_seg1 = 0.318 loss_seg2 = 0.226 loss_adv1 = 3.800, loss_adv2 = 3.543 loss_D1 = 0.262 loss_D2 = 0.441
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6083/  250000, loss_seg1 = 0.219 loss_seg2 = 0.154 loss_adv1 = 3.009, loss_adv2 = 2.868 loss_D1 = 0.357 loss_D2 = 0.348
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6084/  250000, loss_seg1 = 0.592 loss_seg2 = 0.491 loss_adv1 = 2.868, loss_adv2 = 2.536 loss_D1 = 0.269 loss_D2 = 0.316
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6085/  250000, loss_seg1 = 0.541 loss_seg2 = 0.361 loss_adv1 = 2.915, loss_adv2 = 2.684 loss_D1 = 0.571 loss_D2 = 0.659
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6086/  250000, loss_seg1 = 0.262 loss_seg2 = 0.254 loss_adv1 = 1.107, loss_adv2 = 1.195 loss_D1 = 0.889 loss_D2 = 0.840
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6087/  250000, loss_seg1 = 0.870 loss_seg2 = 0.407 loss_adv1 = 4.389, loss_adv2 = 4.046 loss_D1 = 0.440 loss_D2 = 0.459
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6088/  250000, loss_seg1 = 0.209 loss_seg2 = 0.150 loss_adv1 = 4.799, loss_adv2 = 3.785 loss_D1 = 0.551 loss_D2 = 0.373
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6089/  250000, loss_seg1 = 0.197 loss_seg2 = 0.166 loss_adv1 = 2.335, loss_adv2 = 2.083 loss_D1 = 0.384 loss_D2 = 0.643
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6090/  250000, loss_seg1 = 0.149 loss_seg2 = 0.106 loss_adv1 = 2.890, loss_adv2 = 2.383 loss_D1 = 0.175 loss_D2 = 0.309
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6091/  250000, loss_seg1 = 0.437 loss_seg2 = 0.455 loss_adv1 = 2.902, loss_adv2 = 1.749 loss_D1 = 0.285 loss_D2 = 0.446
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6092/  250000, loss_seg1 = 0.194 loss_seg2 = 0.165 loss_adv1 = 3.479, loss_adv2 = 2.922 loss_D1 = 0.467 loss_D2 = 0.346
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6093/  250000, loss_seg1 = 0.333 loss_seg2 = 0.105 loss_adv1 = 3.104, loss_adv2 = 2.806 loss_D1 = 0.217 loss_D2 = 0.252
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6094/  250000, loss_seg1 = 0.230 loss_seg2 = 0.152 loss_adv1 = 1.700, loss_adv2 = 2.145 loss_D1 = 0.329 loss_D2 = 0.348
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6095/  250000, loss_seg1 = 0.746 loss_seg2 = 0.406 loss_adv1 = 1.601, loss_adv2 = 2.593 loss_D1 = 0.337 loss_D2 = 0.357
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6096/  250000, loss_seg1 = 0.356 loss_seg2 = 0.279 loss_adv1 = 1.727, loss_adv2 = 2.910 loss_D1 = 0.367 loss_D2 = 0.231
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6097/  250000, loss_seg1 = 0.935 loss_seg2 = 0.308 loss_adv1 = 2.024, loss_adv2 = 2.560 loss_D1 = 0.381 loss_D2 = 0.283
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6098/  250000, loss_seg1 = 0.320 loss_seg2 = 0.266 loss_adv1 = 2.076, loss_adv2 = 2.222 loss_D1 = 0.301 loss_D2 = 0.276
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6099/  250000, loss_seg1 = 0.331 loss_seg2 = 0.137 loss_adv1 = 2.211, loss_adv2 = 2.209 loss_D1 = 0.242 loss_D2 = 0.300
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6100/  250000, loss_seg1 = 0.972 loss_seg2 = 0.751 loss_adv1 = 2.836, loss_adv2 = 3.075 loss_D1 = 0.190 loss_D2 = 0.198
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6101/  250000, loss_seg1 = 0.221 loss_seg2 = 0.157 loss_adv1 = 2.292, loss_adv2 = 1.923 loss_D1 = 0.242 loss_D2 = 0.403
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6102/  250000, loss_seg1 = 0.387 loss_seg2 = 0.271 loss_adv1 = 2.472, loss_adv2 = 2.205 loss_D1 = 0.313 loss_D2 = 0.465
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6103/  250000, loss_seg1 = 0.223 loss_seg2 = 0.192 loss_adv1 = 2.475, loss_adv2 = 2.449 loss_D1 = 0.263 loss_D2 = 0.307
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6104/  250000, loss_seg1 = 0.386 loss_seg2 = 0.232 loss_adv1 = 3.093, loss_adv2 = 2.994 loss_D1 = 0.258 loss_D2 = 0.264
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6105/  250000, loss_seg1 = 0.239 loss_seg2 = 0.149 loss_adv1 = 2.853, loss_adv2 = 2.430 loss_D1 = 0.211 loss_D2 = 0.336
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6106/  250000, loss_seg1 = 0.815 loss_seg2 = 0.619 loss_adv1 = 3.844, loss_adv2 = 3.243 loss_D1 = 0.286 loss_D2 = 0.186
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6107/  250000, loss_seg1 = 0.288 loss_seg2 = 0.192 loss_adv1 = 3.102, loss_adv2 = 2.594 loss_D1 = 0.394 loss_D2 = 0.629
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6108/  250000, loss_seg1 = 0.388 loss_seg2 = 0.320 loss_adv1 = 2.996, loss_adv2 = 2.223 loss_D1 = 0.467 loss_D2 = 0.432
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6109/  250000, loss_seg1 = 0.288 loss_seg2 = 0.210 loss_adv1 = 3.019, loss_adv2 = 2.097 loss_D1 = 0.191 loss_D2 = 0.319
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6110/  250000, loss_seg1 = 0.249 loss_seg2 = 0.308 loss_adv1 = 3.052, loss_adv2 = 2.768 loss_D1 = 0.322 loss_D2 = 0.297
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6111/  250000, loss_seg1 = 0.260 loss_seg2 = 0.225 loss_adv1 = 3.280, loss_adv2 = 2.860 loss_D1 = 0.248 loss_D2 = 0.425
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6112/  250000, loss_seg1 = 0.173 loss_seg2 = 0.127 loss_adv1 = 3.421, loss_adv2 = 3.101 loss_D1 = 0.123 loss_D2 = 0.361
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6113/  250000, loss_seg1 = 0.236 loss_seg2 = 0.130 loss_adv1 = 2.453, loss_adv2 = 2.572 loss_D1 = 0.343 loss_D2 = 0.447
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6114/  250000, loss_seg1 = 0.394 loss_seg2 = 0.274 loss_adv1 = 2.997, loss_adv2 = 3.033 loss_D1 = 0.358 loss_D2 = 0.446
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6115/  250000, loss_seg1 = 0.451 loss_seg2 = 0.310 loss_adv1 = 3.587, loss_adv2 = 3.047 loss_D1 = 0.136 loss_D2 = 0.263
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6116/  250000, loss_seg1 = 0.373 loss_seg2 = 0.295 loss_adv1 = 3.545, loss_adv2 = 2.964 loss_D1 = 0.130 loss_D2 = 0.353
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6117/  250000, loss_seg1 = 0.213 loss_seg2 = 0.169 loss_adv1 = 3.435, loss_adv2 = 3.105 loss_D1 = 0.120 loss_D2 = 0.337
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6118/  250000, loss_seg1 = 0.653 loss_seg2 = 0.313 loss_adv1 = 3.217, loss_adv2 = 2.638 loss_D1 = 0.241 loss_D2 = 0.436
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6119/  250000, loss_seg1 = 0.304 loss_seg2 = 0.158 loss_adv1 = 3.532, loss_adv2 = 3.362 loss_D1 = 0.115 loss_D2 = 0.251
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6120/  250000, loss_seg1 = 0.298 loss_seg2 = 0.239 loss_adv1 = 3.859, loss_adv2 = 3.496 loss_D1 = 0.114 loss_D2 = 0.170
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6121/  250000, loss_seg1 = 0.414 loss_seg2 = 0.257 loss_adv1 = 3.602, loss_adv2 = 2.777 loss_D1 = 0.107 loss_D2 = 0.315
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6122/  250000, loss_seg1 = 0.191 loss_seg2 = 0.141 loss_adv1 = 2.218, loss_adv2 = 2.305 loss_D1 = 0.310 loss_D2 = 0.288
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6123/  250000, loss_seg1 = 0.204 loss_seg2 = 0.153 loss_adv1 = 2.172, loss_adv2 = 2.017 loss_D1 = 0.344 loss_D2 = 0.391
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6124/  250000, loss_seg1 = 0.220 loss_seg2 = 0.248 loss_adv1 = 3.959, loss_adv2 = 3.337 loss_D1 = 0.077 loss_D2 = 0.186
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6125/  250000, loss_seg1 = 0.387 loss_seg2 = 0.261 loss_adv1 = 3.535, loss_adv2 = 3.030 loss_D1 = 0.292 loss_D2 = 0.306
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6126/  250000, loss_seg1 = 0.561 loss_seg2 = 0.360 loss_adv1 = 3.834, loss_adv2 = 4.037 loss_D1 = 0.166 loss_D2 = 0.171
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6127/  250000, loss_seg1 = 0.537 loss_seg2 = 0.285 loss_adv1 = 3.706, loss_adv2 = 2.221 loss_D1 = 0.272 loss_D2 = 0.510
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6128/  250000, loss_seg1 = 0.167 loss_seg2 = 0.143 loss_adv1 = 3.564, loss_adv2 = 2.067 loss_D1 = 0.175 loss_D2 = 0.402
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6129/  250000, loss_seg1 = 0.399 loss_seg2 = 0.279 loss_adv1 = 2.679, loss_adv2 = 2.083 loss_D1 = 0.307 loss_D2 = 0.361
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6130/  250000, loss_seg1 = 0.647 loss_seg2 = 0.484 loss_adv1 = 4.358, loss_adv2 = 3.405 loss_D1 = 0.253 loss_D2 = 0.397
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6131/  250000, loss_seg1 = 0.225 loss_seg2 = 0.178 loss_adv1 = 3.560, loss_adv2 = 3.099 loss_D1 = 0.166 loss_D2 = 0.241
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6132/  250000, loss_seg1 = 0.213 loss_seg2 = 0.218 loss_adv1 = 1.342, loss_adv2 = 1.411 loss_D1 = 1.194 loss_D2 = 0.918
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6133/  250000, loss_seg1 = 0.311 loss_seg2 = 0.237 loss_adv1 = 3.376, loss_adv2 = 3.629 loss_D1 = 0.218 loss_D2 = 0.286
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6134/  250000, loss_seg1 = 0.122 loss_seg2 = 0.105 loss_adv1 = 2.938, loss_adv2 = 2.429 loss_D1 = 0.258 loss_D2 = 0.385
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6135/  250000, loss_seg1 = 0.198 loss_seg2 = 0.174 loss_adv1 = 2.792, loss_adv2 = 2.808 loss_D1 = 0.288 loss_D2 = 0.378
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6136/  250000, loss_seg1 = 0.296 loss_seg2 = 0.263 loss_adv1 = 2.892, loss_adv2 = 2.897 loss_D1 = 0.290 loss_D2 = 0.429
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6137/  250000, loss_seg1 = 0.207 loss_seg2 = 0.185 loss_adv1 = 4.268, loss_adv2 = 4.663 loss_D1 = 0.187 loss_D2 = 0.377
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6138/  250000, loss_seg1 = 0.257 loss_seg2 = 0.210 loss_adv1 = 2.129, loss_adv2 = 2.868 loss_D1 = 0.461 loss_D2 = 0.472
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6139/  250000, loss_seg1 = 0.183 loss_seg2 = 0.146 loss_adv1 = 2.588, loss_adv2 = 3.049 loss_D1 = 0.298 loss_D2 = 0.372
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6140/  250000, loss_seg1 = 0.130 loss_seg2 = 0.097 loss_adv1 = 2.802, loss_adv2 = 2.539 loss_D1 = 0.335 loss_D2 = 0.358
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6141/  250000, loss_seg1 = 0.378 loss_seg2 = 0.123 loss_adv1 = 4.038, loss_adv2 = 3.178 loss_D1 = 0.177 loss_D2 = 0.281
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6142/  250000, loss_seg1 = 0.251 loss_seg2 = 0.218 loss_adv1 = 3.842, loss_adv2 = 3.960 loss_D1 = 0.233 loss_D2 = 0.280
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6143/  250000, loss_seg1 = 0.240 loss_seg2 = 0.134 loss_adv1 = 3.928, loss_adv2 = 3.281 loss_D1 = 0.172 loss_D2 = 0.225
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6144/  250000, loss_seg1 = 0.320 loss_seg2 = 0.232 loss_adv1 = 3.090, loss_adv2 = 2.424 loss_D1 = 0.236 loss_D2 = 0.319
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6145/  250000, loss_seg1 = 0.314 loss_seg2 = 0.301 loss_adv1 = 3.340, loss_adv2 = 3.259 loss_D1 = 0.331 loss_D2 = 0.398
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6146/  250000, loss_seg1 = 0.202 loss_seg2 = 0.141 loss_adv1 = 3.047, loss_adv2 = 3.139 loss_D1 = 0.281 loss_D2 = 0.282
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6147/  250000, loss_seg1 = 0.695 loss_seg2 = 0.366 loss_adv1 = 3.040, loss_adv2 = 3.326 loss_D1 = 0.255 loss_D2 = 0.225
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6148/  250000, loss_seg1 = 0.262 loss_seg2 = 0.195 loss_adv1 = 3.165, loss_adv2 = 2.208 loss_D1 = 0.236 loss_D2 = 0.379
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6149/  250000, loss_seg1 = 0.229 loss_seg2 = 0.174 loss_adv1 = 4.974, loss_adv2 = 4.165 loss_D1 = 0.160 loss_D2 = 0.168
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6150/  250000, loss_seg1 = 0.264 loss_seg2 = 0.185 loss_adv1 = 3.845, loss_adv2 = 3.482 loss_D1 = 0.272 loss_D2 = 0.247
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6151/  250000, loss_seg1 = 0.130 loss_seg2 = 0.107 loss_adv1 = 2.582, loss_adv2 = 2.226 loss_D1 = 0.233 loss_D2 = 0.355
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6152/  250000, loss_seg1 = 0.282 loss_seg2 = 0.195 loss_adv1 = 2.625, loss_adv2 = 2.299 loss_D1 = 0.366 loss_D2 = 0.479
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6153/  250000, loss_seg1 = 0.202 loss_seg2 = 0.185 loss_adv1 = 3.141, loss_adv2 = 2.024 loss_D1 = 0.242 loss_D2 = 0.436
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6154/  250000, loss_seg1 = 0.211 loss_seg2 = 0.172 loss_adv1 = 3.667, loss_adv2 = 3.438 loss_D1 = 0.102 loss_D2 = 0.166
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6155/  250000, loss_seg1 = 0.454 loss_seg2 = 0.338 loss_adv1 = 2.881, loss_adv2 = 1.954 loss_D1 = 0.279 loss_D2 = 0.432
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6156/  250000, loss_seg1 = 0.721 loss_seg2 = 0.450 loss_adv1 = 2.025, loss_adv2 = 2.639 loss_D1 = 0.505 loss_D2 = 0.351
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6157/  250000, loss_seg1 = 0.216 loss_seg2 = 0.161 loss_adv1 = 3.250, loss_adv2 = 2.951 loss_D1 = 0.248 loss_D2 = 0.301
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6158/  250000, loss_seg1 = 0.188 loss_seg2 = 0.150 loss_adv1 = 4.469, loss_adv2 = 3.722 loss_D1 = 0.111 loss_D2 = 0.319
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6159/  250000, loss_seg1 = 0.211 loss_seg2 = 0.179 loss_adv1 = 3.847, loss_adv2 = 4.088 loss_D1 = 0.133 loss_D2 = 0.264
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6160/  250000, loss_seg1 = 0.220 loss_seg2 = 0.131 loss_adv1 = 4.061, loss_adv2 = 2.899 loss_D1 = 0.166 loss_D2 = 0.396
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6161/  250000, loss_seg1 = 0.240 loss_seg2 = 0.176 loss_adv1 = 4.700, loss_adv2 = 4.609 loss_D1 = 0.117 loss_D2 = 0.230
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6162/  250000, loss_seg1 = 0.152 loss_seg2 = 0.121 loss_adv1 = 4.485, loss_adv2 = 4.466 loss_D1 = 0.127 loss_D2 = 0.217
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6163/  250000, loss_seg1 = 0.227 loss_seg2 = 0.137 loss_adv1 = 2.208, loss_adv2 = 2.730 loss_D1 = 0.311 loss_D2 = 0.333
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6164/  250000, loss_seg1 = 0.520 loss_seg2 = 0.208 loss_adv1 = 2.581, loss_adv2 = 2.772 loss_D1 = 0.470 loss_D2 = 0.297
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6165/  250000, loss_seg1 = 0.153 loss_seg2 = 0.110 loss_adv1 = 2.176, loss_adv2 = 2.412 loss_D1 = 0.440 loss_D2 = 0.355
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6166/  250000, loss_seg1 = 0.202 loss_seg2 = 0.158 loss_adv1 = 2.645, loss_adv2 = 1.997 loss_D1 = 0.252 loss_D2 = 0.366
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6167/  250000, loss_seg1 = 0.598 loss_seg2 = 0.533 loss_adv1 = 2.343, loss_adv2 = 1.697 loss_D1 = 0.413 loss_D2 = 0.755
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6168/  250000, loss_seg1 = 0.472 loss_seg2 = 0.294 loss_adv1 = 4.140, loss_adv2 = 2.776 loss_D1 = 0.135 loss_D2 = 0.365
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6169/  250000, loss_seg1 = 0.153 loss_seg2 = 0.131 loss_adv1 = 4.083, loss_adv2 = 1.714 loss_D1 = 0.201 loss_D2 = 0.485
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6170/  250000, loss_seg1 = 0.438 loss_seg2 = 0.288 loss_adv1 = 4.475, loss_adv2 = 3.343 loss_D1 = 0.123 loss_D2 = 0.226
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6171/  250000, loss_seg1 = 0.297 loss_seg2 = 0.239 loss_adv1 = 2.865, loss_adv2 = 2.218 loss_D1 = 0.279 loss_D2 = 0.367
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6172/  250000, loss_seg1 = 1.765 loss_seg2 = 1.350 loss_adv1 = 5.311, loss_adv2 = 3.625 loss_D1 = 0.783 loss_D2 = 0.714
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6173/  250000, loss_seg1 = 0.266 loss_seg2 = 0.220 loss_adv1 = 4.043, loss_adv2 = 3.216 loss_D1 = 0.098 loss_D2 = 0.195
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6174/  250000, loss_seg1 = 0.251 loss_seg2 = 0.209 loss_adv1 = 4.012, loss_adv2 = 2.259 loss_D1 = 0.206 loss_D2 = 0.337
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6175/  250000, loss_seg1 = 0.493 loss_seg2 = 0.332 loss_adv1 = 3.576, loss_adv2 = 2.110 loss_D1 = 0.154 loss_D2 = 0.371
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6176/  250000, loss_seg1 = 0.686 loss_seg2 = 0.452 loss_adv1 = 3.608, loss_adv2 = 2.265 loss_D1 = 0.149 loss_D2 = 0.298
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6177/  250000, loss_seg1 = 0.276 loss_seg2 = 0.217 loss_adv1 = 3.425, loss_adv2 = 2.204 loss_D1 = 0.207 loss_D2 = 0.388
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6178/  250000, loss_seg1 = 0.409 loss_seg2 = 0.329 loss_adv1 = 4.068, loss_adv2 = 3.191 loss_D1 = 0.192 loss_D2 = 0.317
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6179/  250000, loss_seg1 = 0.165 loss_seg2 = 0.134 loss_adv1 = 3.465, loss_adv2 = 2.107 loss_D1 = 0.183 loss_D2 = 0.323
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6180/  250000, loss_seg1 = 0.218 loss_seg2 = 0.153 loss_adv1 = 2.669, loss_adv2 = 2.681 loss_D1 = 0.368 loss_D2 = 0.388
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6181/  250000, loss_seg1 = 0.303 loss_seg2 = 0.264 loss_adv1 = 3.248, loss_adv2 = 2.183 loss_D1 = 0.205 loss_D2 = 0.301
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6182/  250000, loss_seg1 = 0.432 loss_seg2 = 0.292 loss_adv1 = 4.421, loss_adv2 = 2.893 loss_D1 = 0.180 loss_D2 = 0.242
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6183/  250000, loss_seg1 = 0.571 loss_seg2 = 0.396 loss_adv1 = 3.054, loss_adv2 = 2.280 loss_D1 = 0.294 loss_D2 = 0.479
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6184/  250000, loss_seg1 = 0.281 loss_seg2 = 0.250 loss_adv1 = 3.336, loss_adv2 = 2.596 loss_D1 = 0.255 loss_D2 = 0.335
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6185/  250000, loss_seg1 = 0.361 loss_seg2 = 0.267 loss_adv1 = 3.761, loss_adv2 = 2.737 loss_D1 = 0.263 loss_D2 = 0.373
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6186/  250000, loss_seg1 = 0.158 loss_seg2 = 0.111 loss_adv1 = 3.848, loss_adv2 = 3.170 loss_D1 = 0.201 loss_D2 = 0.332
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6187/  250000, loss_seg1 = 0.442 loss_seg2 = 0.354 loss_adv1 = 4.128, loss_adv2 = 3.260 loss_D1 = 0.178 loss_D2 = 0.342
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6188/  250000, loss_seg1 = 0.161 loss_seg2 = 0.128 loss_adv1 = 4.104, loss_adv2 = 3.509 loss_D1 = 0.090 loss_D2 = 0.155
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6189/  250000, loss_seg1 = 0.236 loss_seg2 = 0.173 loss_adv1 = 3.139, loss_adv2 = 2.368 loss_D1 = 0.328 loss_D2 = 0.321
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6190/  250000, loss_seg1 = 0.261 loss_seg2 = 0.173 loss_adv1 = 3.739, loss_adv2 = 3.014 loss_D1 = 0.180 loss_D2 = 0.332
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6191/  250000, loss_seg1 = 0.969 loss_seg2 = 0.644 loss_adv1 = 2.689, loss_adv2 = 2.484 loss_D1 = 0.298 loss_D2 = 0.272
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6192/  250000, loss_seg1 = 0.862 loss_seg2 = 0.635 loss_adv1 = 2.916, loss_adv2 = 2.221 loss_D1 = 0.186 loss_D2 = 0.307
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6193/  250000, loss_seg1 = 0.364 loss_seg2 = 0.296 loss_adv1 = 2.624, loss_adv2 = 2.105 loss_D1 = 0.297 loss_D2 = 0.339
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6194/  250000, loss_seg1 = 0.265 loss_seg2 = 0.207 loss_adv1 = 3.830, loss_adv2 = 3.102 loss_D1 = 0.216 loss_D2 = 0.224
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6195/  250000, loss_seg1 = 0.302 loss_seg2 = 0.201 loss_adv1 = 2.629, loss_adv2 = 1.981 loss_D1 = 0.243 loss_D2 = 0.318
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6196/  250000, loss_seg1 = 0.421 loss_seg2 = 0.280 loss_adv1 = 3.860, loss_adv2 = 2.010 loss_D1 = 0.219 loss_D2 = 0.411
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6197/  250000, loss_seg1 = 0.284 loss_seg2 = 0.184 loss_adv1 = 4.554, loss_adv2 = 3.195 loss_D1 = 0.172 loss_D2 = 0.174
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6198/  250000, loss_seg1 = 0.282 loss_seg2 = 0.203 loss_adv1 = 3.339, loss_adv2 = 2.913 loss_D1 = 0.266 loss_D2 = 0.325
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6199/  250000, loss_seg1 = 0.253 loss_seg2 = 0.195 loss_adv1 = 4.049, loss_adv2 = 2.360 loss_D1 = 0.109 loss_D2 = 0.336
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6200/  250000, loss_seg1 = 0.539 loss_seg2 = 0.402 loss_adv1 = 4.669, loss_adv2 = 3.759 loss_D1 = 0.267 loss_D2 = 0.212
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6201/  250000, loss_seg1 = 0.297 loss_seg2 = 0.237 loss_adv1 = 3.661, loss_adv2 = 2.378 loss_D1 = 0.144 loss_D2 = 0.312
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6202/  250000, loss_seg1 = 0.264 loss_seg2 = 0.232 loss_adv1 = 3.703, loss_adv2 = 2.615 loss_D1 = 0.139 loss_D2 = 0.328
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6203/  250000, loss_seg1 = 0.356 loss_seg2 = 0.260 loss_adv1 = 3.969, loss_adv2 = 2.447 loss_D1 = 0.177 loss_D2 = 0.377
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6204/  250000, loss_seg1 = 0.359 loss_seg2 = 0.282 loss_adv1 = 2.652, loss_adv2 = 2.796 loss_D1 = 0.248 loss_D2 = 0.252
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6205/  250000, loss_seg1 = 0.351 loss_seg2 = 0.291 loss_adv1 = 4.620, loss_adv2 = 3.943 loss_D1 = 0.135 loss_D2 = 0.196
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6206/  250000, loss_seg1 = 0.187 loss_seg2 = 0.124 loss_adv1 = 4.474, loss_adv2 = 4.110 loss_D1 = 0.069 loss_D2 = 0.116
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6207/  250000, loss_seg1 = 0.222 loss_seg2 = 0.161 loss_adv1 = 2.513, loss_adv2 = 2.667 loss_D1 = 0.234 loss_D2 = 0.295
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6208/  250000, loss_seg1 = 0.278 loss_seg2 = 0.275 loss_adv1 = 2.803, loss_adv2 = 2.852 loss_D1 = 0.392 loss_D2 = 0.519
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6209/  250000, loss_seg1 = 0.315 loss_seg2 = 0.237 loss_adv1 = 2.856, loss_adv2 = 2.818 loss_D1 = 0.270 loss_D2 = 0.324
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6210/  250000, loss_seg1 = 0.202 loss_seg2 = 0.164 loss_adv1 = 3.589, loss_adv2 = 2.712 loss_D1 = 0.216 loss_D2 = 0.422
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6211/  250000, loss_seg1 = 0.519 loss_seg2 = 0.375 loss_adv1 = 3.921, loss_adv2 = 2.402 loss_D1 = 0.343 loss_D2 = 0.626
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6212/  250000, loss_seg1 = 0.653 loss_seg2 = 0.551 loss_adv1 = 3.950, loss_adv2 = 2.337 loss_D1 = 0.246 loss_D2 = 0.523
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6213/  250000, loss_seg1 = 0.137 loss_seg2 = 0.107 loss_adv1 = 2.812, loss_adv2 = 2.210 loss_D1 = 0.209 loss_D2 = 0.268
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6214/  250000, loss_seg1 = 0.124 loss_seg2 = 0.109 loss_adv1 = 4.144, loss_adv2 = 1.936 loss_D1 = 0.113 loss_D2 = 0.429
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6215/  250000, loss_seg1 = 0.236 loss_seg2 = 0.195 loss_adv1 = 3.357, loss_adv2 = 2.356 loss_D1 = 0.347 loss_D2 = 0.510
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6216/  250000, loss_seg1 = 0.400 loss_seg2 = 0.343 loss_adv1 = 3.667, loss_adv2 = 2.307 loss_D1 = 0.156 loss_D2 = 0.250
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6217/  250000, loss_seg1 = 0.488 loss_seg2 = 0.408 loss_adv1 = 4.498, loss_adv2 = 1.743 loss_D1 = 0.152 loss_D2 = 0.381
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6218/  250000, loss_seg1 = 0.785 loss_seg2 = 0.672 loss_adv1 = 3.283, loss_adv2 = 2.185 loss_D1 = 0.137 loss_D2 = 0.326
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6219/  250000, loss_seg1 = 0.241 loss_seg2 = 0.201 loss_adv1 = 5.573, loss_adv2 = 3.049 loss_D1 = 0.214 loss_D2 = 0.244
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6220/  250000, loss_seg1 = 1.634 loss_seg2 = 1.297 loss_adv1 = 3.754, loss_adv2 = 2.715 loss_D1 = 0.271 loss_D2 = 0.192
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6221/  250000, loss_seg1 = 0.213 loss_seg2 = 0.185 loss_adv1 = 4.212, loss_adv2 = 2.165 loss_D1 = 0.170 loss_D2 = 0.391
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6222/  250000, loss_seg1 = 0.352 loss_seg2 = 0.218 loss_adv1 = 4.234, loss_adv2 = 2.819 loss_D1 = 0.229 loss_D2 = 0.353
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6223/  250000, loss_seg1 = 0.184 loss_seg2 = 0.098 loss_adv1 = 3.628, loss_adv2 = 2.666 loss_D1 = 0.415 loss_D2 = 0.418
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6224/  250000, loss_seg1 = 0.161 loss_seg2 = 0.112 loss_adv1 = 2.569, loss_adv2 = 2.675 loss_D1 = 0.378 loss_D2 = 0.299
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6225/  250000, loss_seg1 = 0.438 loss_seg2 = 0.286 loss_adv1 = 2.748, loss_adv2 = 2.658 loss_D1 = 0.544 loss_D2 = 0.351
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6226/  250000, loss_seg1 = 0.339 loss_seg2 = 0.177 loss_adv1 = 4.873, loss_adv2 = 3.617 loss_D1 = 0.286 loss_D2 = 0.388
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6227/  250000, loss_seg1 = 1.953 loss_seg2 = 0.790 loss_adv1 = 3.363, loss_adv2 = 2.600 loss_D1 = 0.520 loss_D2 = 0.365
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6228/  250000, loss_seg1 = 0.299 loss_seg2 = 0.256 loss_adv1 = 3.286, loss_adv2 = 2.155 loss_D1 = 0.263 loss_D2 = 0.360
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6229/  250000, loss_seg1 = 1.101 loss_seg2 = 0.597 loss_adv1 = 2.554, loss_adv2 = 2.472 loss_D1 = 0.474 loss_D2 = 0.493
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6230/  250000, loss_seg1 = 0.390 loss_seg2 = 0.229 loss_adv1 = 4.475, loss_adv2 = 2.922 loss_D1 = 0.281 loss_D2 = 0.275
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6231/  250000, loss_seg1 = 0.194 loss_seg2 = 0.148 loss_adv1 = 3.134, loss_adv2 = 2.110 loss_D1 = 0.200 loss_D2 = 0.372
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6232/  250000, loss_seg1 = 0.267 loss_seg2 = 0.243 loss_adv1 = 2.731, loss_adv2 = 2.372 loss_D1 = 0.224 loss_D2 = 0.286
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6233/  250000, loss_seg1 = 0.199 loss_seg2 = 0.125 loss_adv1 = 3.144, loss_adv2 = 2.521 loss_D1 = 0.314 loss_D2 = 0.301
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6234/  250000, loss_seg1 = 2.879 loss_seg2 = 1.669 loss_adv1 = 2.378, loss_adv2 = 2.395 loss_D1 = 0.408 loss_D2 = 0.529
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6235/  250000, loss_seg1 = 1.844 loss_seg2 = 0.983 loss_adv1 = 3.292, loss_adv2 = 2.951 loss_D1 = 0.450 loss_D2 = 0.389
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6236/  250000, loss_seg1 = 0.280 loss_seg2 = 0.178 loss_adv1 = 2.539, loss_adv2 = 1.861 loss_D1 = 0.351 loss_D2 = 0.344
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6237/  250000, loss_seg1 = 0.331 loss_seg2 = 0.242 loss_adv1 = 2.833, loss_adv2 = 1.599 loss_D1 = 0.236 loss_D2 = 0.486
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6238/  250000, loss_seg1 = 0.180 loss_seg2 = 0.147 loss_adv1 = 2.729, loss_adv2 = 2.923 loss_D1 = 0.255 loss_D2 = 0.279
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6239/  250000, loss_seg1 = 0.156 loss_seg2 = 0.129 loss_adv1 = 2.447, loss_adv2 = 2.021 loss_D1 = 0.234 loss_D2 = 0.308
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6240/  250000, loss_seg1 = 0.397 loss_seg2 = 0.357 loss_adv1 = 2.271, loss_adv2 = 3.018 loss_D1 = 0.267 loss_D2 = 0.176
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6241/  250000, loss_seg1 = 0.502 loss_seg2 = 0.273 loss_adv1 = 2.784, loss_adv2 = 2.390 loss_D1 = 0.252 loss_D2 = 0.405
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6242/  250000, loss_seg1 = 0.454 loss_seg2 = 0.424 loss_adv1 = 3.118, loss_adv2 = 3.047 loss_D1 = 0.246 loss_D2 = 0.305
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6243/  250000, loss_seg1 = 0.216 loss_seg2 = 0.228 loss_adv1 = 3.567, loss_adv2 = 4.080 loss_D1 = 0.205 loss_D2 = 0.331
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6244/  250000, loss_seg1 = 0.277 loss_seg2 = 0.200 loss_adv1 = 3.083, loss_adv2 = 2.432 loss_D1 = 0.296 loss_D2 = 0.379
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6245/  250000, loss_seg1 = 0.667 loss_seg2 = 0.346 loss_adv1 = 3.030, loss_adv2 = 3.758 loss_D1 = 0.491 loss_D2 = 0.263
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6246/  250000, loss_seg1 = 0.223 loss_seg2 = 0.167 loss_adv1 = 3.169, loss_adv2 = 2.919 loss_D1 = 0.558 loss_D2 = 0.588
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6247/  250000, loss_seg1 = 0.495 loss_seg2 = 0.345 loss_adv1 = 1.355, loss_adv2 = 1.129 loss_D1 = 0.842 loss_D2 = 0.724
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6248/  250000, loss_seg1 = 0.143 loss_seg2 = 0.121 loss_adv1 = 4.507, loss_adv2 = 4.118 loss_D1 = 0.120 loss_D2 = 0.263
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6249/  250000, loss_seg1 = 0.160 loss_seg2 = 0.098 loss_adv1 = 3.891, loss_adv2 = 3.916 loss_D1 = 0.163 loss_D2 = 0.379
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6250/  250000, loss_seg1 = 0.365 loss_seg2 = 0.289 loss_adv1 = 3.745, loss_adv2 = 3.572 loss_D1 = 0.147 loss_D2 = 0.251
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6251/  250000, loss_seg1 = 0.212 loss_seg2 = 0.221 loss_adv1 = 3.893, loss_adv2 = 3.883 loss_D1 = 0.139 loss_D2 = 0.268
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6252/  250000, loss_seg1 = 0.284 loss_seg2 = 0.226 loss_adv1 = 3.856, loss_adv2 = 3.771 loss_D1 = 0.112 loss_D2 = 0.159
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6253/  250000, loss_seg1 = 0.170 loss_seg2 = 0.134 loss_adv1 = 2.322, loss_adv2 = 2.361 loss_D1 = 0.242 loss_D2 = 0.257
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6254/  250000, loss_seg1 = 0.277 loss_seg2 = 0.185 loss_adv1 = 2.861, loss_adv2 = 2.223 loss_D1 = 0.221 loss_D2 = 0.402
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6255/  250000, loss_seg1 = 1.148 loss_seg2 = 0.755 loss_adv1 = 3.307, loss_adv2 = 1.916 loss_D1 = 0.203 loss_D2 = 0.480
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6256/  250000, loss_seg1 = 0.315 loss_seg2 = 0.270 loss_adv1 = 3.350, loss_adv2 = 2.184 loss_D1 = 0.250 loss_D2 = 0.449
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6257/  250000, loss_seg1 = 0.836 loss_seg2 = 0.440 loss_adv1 = 2.454, loss_adv2 = 2.632 loss_D1 = 0.500 loss_D2 = 0.556
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6258/  250000, loss_seg1 = 0.173 loss_seg2 = 0.115 loss_adv1 = 3.512, loss_adv2 = 2.904 loss_D1 = 0.363 loss_D2 = 0.415
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6259/  250000, loss_seg1 = 1.090 loss_seg2 = 0.846 loss_adv1 = 4.183, loss_adv2 = 4.063 loss_D1 = 0.230 loss_D2 = 0.275
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6260/  250000, loss_seg1 = 0.236 loss_seg2 = 0.224 loss_adv1 = 3.768, loss_adv2 = 3.318 loss_D1 = 0.163 loss_D2 = 0.304
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6261/  250000, loss_seg1 = 0.369 loss_seg2 = 0.317 loss_adv1 = 2.999, loss_adv2 = 2.033 loss_D1 = 0.294 loss_D2 = 0.365
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6262/  250000, loss_seg1 = 0.263 loss_seg2 = 0.153 loss_adv1 = 3.283, loss_adv2 = 1.936 loss_D1 = 0.234 loss_D2 = 0.432
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6263/  250000, loss_seg1 = 0.234 loss_seg2 = 0.161 loss_adv1 = 5.008, loss_adv2 = 3.543 loss_D1 = 0.151 loss_D2 = 0.238
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6264/  250000, loss_seg1 = 0.583 loss_seg2 = 0.700 loss_adv1 = 1.402, loss_adv2 = 1.081 loss_D1 = 2.847 loss_D2 = 2.097
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6265/  250000, loss_seg1 = 0.399 loss_seg2 = 0.283 loss_adv1 = 3.054, loss_adv2 = 2.393 loss_D1 = 0.284 loss_D2 = 0.345
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6266/  250000, loss_seg1 = 0.276 loss_seg2 = 0.201 loss_adv1 = 4.000, loss_adv2 = 2.631 loss_D1 = 0.158 loss_D2 = 0.288
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6267/  250000, loss_seg1 = 0.286 loss_seg2 = 0.180 loss_adv1 = 2.287, loss_adv2 = 2.338 loss_D1 = 0.297 loss_D2 = 0.382
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6268/  250000, loss_seg1 = 0.474 loss_seg2 = 0.359 loss_adv1 = 2.000, loss_adv2 = 1.902 loss_D1 = 0.361 loss_D2 = 0.336
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6269/  250000, loss_seg1 = 0.184 loss_seg2 = 0.151 loss_adv1 = 1.954, loss_adv2 = 2.159 loss_D1 = 0.413 loss_D2 = 0.391
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6270/  250000, loss_seg1 = 0.176 loss_seg2 = 0.138 loss_adv1 = 1.597, loss_adv2 = 1.931 loss_D1 = 0.445 loss_D2 = 0.432
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6271/  250000, loss_seg1 = 0.164 loss_seg2 = 0.139 loss_adv1 = 2.468, loss_adv2 = 2.874 loss_D1 = 0.367 loss_D2 = 0.494
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6272/  250000, loss_seg1 = 0.307 loss_seg2 = 0.218 loss_adv1 = 2.207, loss_adv2 = 2.337 loss_D1 = 0.369 loss_D2 = 0.355
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6273/  250000, loss_seg1 = 0.399 loss_seg2 = 0.246 loss_adv1 = 2.201, loss_adv2 = 1.761 loss_D1 = 0.296 loss_D2 = 0.435
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6274/  250000, loss_seg1 = 0.431 loss_seg2 = 0.253 loss_adv1 = 2.191, loss_adv2 = 2.100 loss_D1 = 0.412 loss_D2 = 0.360
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6275/  250000, loss_seg1 = 0.336 loss_seg2 = 0.236 loss_adv1 = 2.271, loss_adv2 = 2.107 loss_D1 = 0.369 loss_D2 = 0.370
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6276/  250000, loss_seg1 = 0.463 loss_seg2 = 0.241 loss_adv1 = 2.299, loss_adv2 = 2.647 loss_D1 = 0.335 loss_D2 = 0.343
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6277/  250000, loss_seg1 = 1.490 loss_seg2 = 0.799 loss_adv1 = 3.078, loss_adv2 = 2.643 loss_D1 = 0.422 loss_D2 = 0.408
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6278/  250000, loss_seg1 = 0.207 loss_seg2 = 0.157 loss_adv1 = 2.080, loss_adv2 = 2.055 loss_D1 = 0.511 loss_D2 = 0.429
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6279/  250000, loss_seg1 = 0.481 loss_seg2 = 0.470 loss_adv1 = 2.074, loss_adv2 = 2.301 loss_D1 = 0.308 loss_D2 = 0.485
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6280/  250000, loss_seg1 = 0.814 loss_seg2 = 0.427 loss_adv1 = 2.822, loss_adv2 = 3.141 loss_D1 = 1.410 loss_D2 = 1.177
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6281/  250000, loss_seg1 = 0.147 loss_seg2 = 0.104 loss_adv1 = 2.800, loss_adv2 = 2.734 loss_D1 = 0.268 loss_D2 = 0.310
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6282/  250000, loss_seg1 = 0.958 loss_seg2 = 0.622 loss_adv1 = 2.662, loss_adv2 = 2.372 loss_D1 = 0.475 loss_D2 = 0.433
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6283/  250000, loss_seg1 = 0.316 loss_seg2 = 0.206 loss_adv1 = 2.287, loss_adv2 = 1.583 loss_D1 = 0.359 loss_D2 = 0.444
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6284/  250000, loss_seg1 = 0.456 loss_seg2 = 0.301 loss_adv1 = 2.085, loss_adv2 = 2.191 loss_D1 = 0.461 loss_D2 = 0.415
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6285/  250000, loss_seg1 = 0.213 loss_seg2 = 0.121 loss_adv1 = 1.602, loss_adv2 = 1.907 loss_D1 = 0.523 loss_D2 = 0.323
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6286/  250000, loss_seg1 = 0.330 loss_seg2 = 0.288 loss_adv1 = 2.037, loss_adv2 = 1.967 loss_D1 = 0.272 loss_D2 = 0.351
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6287/  250000, loss_seg1 = 0.865 loss_seg2 = 0.649 loss_adv1 = 1.487, loss_adv2 = 1.639 loss_D1 = 0.479 loss_D2 = 0.561
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6288/  250000, loss_seg1 = 0.333 loss_seg2 = 0.208 loss_adv1 = 1.902, loss_adv2 = 1.964 loss_D1 = 0.360 loss_D2 = 0.350
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6289/  250000, loss_seg1 = 0.439 loss_seg2 = 0.274 loss_adv1 = 1.555, loss_adv2 = 1.440 loss_D1 = 0.377 loss_D2 = 0.513
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6290/  250000, loss_seg1 = 0.825 loss_seg2 = 0.414 loss_adv1 = 1.328, loss_adv2 = 2.303 loss_D1 = 0.526 loss_D2 = 0.408
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6291/  250000, loss_seg1 = 0.447 loss_seg2 = 0.289 loss_adv1 = 1.513, loss_adv2 = 1.984 loss_D1 = 0.373 loss_D2 = 0.418
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6292/  250000, loss_seg1 = 0.335 loss_seg2 = 0.254 loss_adv1 = 1.396, loss_adv2 = 1.950 loss_D1 = 0.493 loss_D2 = 0.478
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6293/  250000, loss_seg1 = 0.429 loss_seg2 = 0.270 loss_adv1 = 1.569, loss_adv2 = 2.959 loss_D1 = 0.378 loss_D2 = 0.332
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6294/  250000, loss_seg1 = 0.327 loss_seg2 = 0.224 loss_adv1 = 2.041, loss_adv2 = 2.349 loss_D1 = 0.252 loss_D2 = 0.352
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6295/  250000, loss_seg1 = 0.547 loss_seg2 = 0.527 loss_adv1 = 1.571, loss_adv2 = 1.865 loss_D1 = 0.397 loss_D2 = 0.393
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6296/  250000, loss_seg1 = 0.327 loss_seg2 = 0.229 loss_adv1 = 1.577, loss_adv2 = 2.291 loss_D1 = 0.403 loss_D2 = 0.370
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6297/  250000, loss_seg1 = 0.182 loss_seg2 = 0.174 loss_adv1 = 2.030, loss_adv2 = 2.444 loss_D1 = 0.306 loss_D2 = 0.295
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6298/  250000, loss_seg1 = 0.241 loss_seg2 = 0.202 loss_adv1 = 1.837, loss_adv2 = 2.432 loss_D1 = 0.352 loss_D2 = 0.334
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6299/  250000, loss_seg1 = 0.314 loss_seg2 = 0.183 loss_adv1 = 1.365, loss_adv2 = 1.952 loss_D1 = 0.501 loss_D2 = 0.365
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6300/  250000, loss_seg1 = 0.316 loss_seg2 = 0.230 loss_adv1 = 2.210, loss_adv2 = 2.832 loss_D1 = 0.312 loss_D2 = 0.301
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6301/  250000, loss_seg1 = 1.097 loss_seg2 = 0.656 loss_adv1 = 1.937, loss_adv2 = 2.568 loss_D1 = 0.408 loss_D2 = 0.414
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6302/  250000, loss_seg1 = 0.175 loss_seg2 = 0.140 loss_adv1 = 1.566, loss_adv2 = 2.171 loss_D1 = 0.410 loss_D2 = 0.375
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6303/  250000, loss_seg1 = 0.239 loss_seg2 = 0.183 loss_adv1 = 2.124, loss_adv2 = 2.622 loss_D1 = 0.289 loss_D2 = 0.258
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6304/  250000, loss_seg1 = 0.194 loss_seg2 = 0.127 loss_adv1 = 1.317, loss_adv2 = 1.540 loss_D1 = 0.727 loss_D2 = 0.688
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6305/  250000, loss_seg1 = 0.552 loss_seg2 = 0.318 loss_adv1 = 2.935, loss_adv2 = 2.467 loss_D1 = 0.307 loss_D2 = 0.367
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6306/  250000, loss_seg1 = 0.271 loss_seg2 = 0.243 loss_adv1 = 2.445, loss_adv2 = 2.412 loss_D1 = 0.266 loss_D2 = 0.351
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6307/  250000, loss_seg1 = 1.103 loss_seg2 = 0.735 loss_adv1 = 2.459, loss_adv2 = 2.214 loss_D1 = 0.270 loss_D2 = 0.298
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6308/  250000, loss_seg1 = 0.355 loss_seg2 = 0.241 loss_adv1 = 2.539, loss_adv2 = 2.304 loss_D1 = 0.296 loss_D2 = 0.291
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6309/  250000, loss_seg1 = 0.159 loss_seg2 = 0.142 loss_adv1 = 2.822, loss_adv2 = 2.218 loss_D1 = 0.252 loss_D2 = 0.281
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6310/  250000, loss_seg1 = 0.781 loss_seg2 = 0.383 loss_adv1 = 2.515, loss_adv2 = 2.252 loss_D1 = 0.287 loss_D2 = 0.345
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6311/  250000, loss_seg1 = 0.196 loss_seg2 = 0.166 loss_adv1 = 2.819, loss_adv2 = 2.554 loss_D1 = 0.269 loss_D2 = 0.271
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6312/  250000, loss_seg1 = 0.157 loss_seg2 = 0.129 loss_adv1 = 3.533, loss_adv2 = 3.194 loss_D1 = 0.215 loss_D2 = 0.190
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6313/  250000, loss_seg1 = 0.381 loss_seg2 = 0.289 loss_adv1 = 3.136, loss_adv2 = 2.708 loss_D1 = 0.357 loss_D2 = 0.295
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6314/  250000, loss_seg1 = 0.583 loss_seg2 = 0.425 loss_adv1 = 3.087, loss_adv2 = 2.154 loss_D1 = 0.256 loss_D2 = 0.460
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6315/  250000, loss_seg1 = 0.267 loss_seg2 = 0.223 loss_adv1 = 3.373, loss_adv2 = 2.788 loss_D1 = 0.176 loss_D2 = 0.341
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6316/  250000, loss_seg1 = 0.223 loss_seg2 = 0.181 loss_adv1 = 3.680, loss_adv2 = 3.059 loss_D1 = 0.193 loss_D2 = 0.239
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6317/  250000, loss_seg1 = 0.197 loss_seg2 = 0.148 loss_adv1 = 4.289, loss_adv2 = 3.613 loss_D1 = 0.188 loss_D2 = 0.235
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6318/  250000, loss_seg1 = 0.348 loss_seg2 = 0.237 loss_adv1 = 4.411, loss_adv2 = 3.744 loss_D1 = 0.075 loss_D2 = 0.210
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6319/  250000, loss_seg1 = 0.270 loss_seg2 = 0.161 loss_adv1 = 3.853, loss_adv2 = 3.432 loss_D1 = 0.440 loss_D2 = 0.362
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6320/  250000, loss_seg1 = 0.241 loss_seg2 = 0.160 loss_adv1 = 4.442, loss_adv2 = 3.794 loss_D1 = 0.122 loss_D2 = 0.231
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6321/  250000, loss_seg1 = 0.138 loss_seg2 = 0.116 loss_adv1 = 3.795, loss_adv2 = 3.998 loss_D1 = 0.110 loss_D2 = 0.151
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6322/  250000, loss_seg1 = 0.330 loss_seg2 = 0.216 loss_adv1 = 2.916, loss_adv2 = 1.757 loss_D1 = 0.203 loss_D2 = 0.467
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6323/  250000, loss_seg1 = 0.741 loss_seg2 = 0.794 loss_adv1 = 2.768, loss_adv2 = 3.363 loss_D1 = 0.289 loss_D2 = 0.339
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6324/  250000, loss_seg1 = 0.598 loss_seg2 = 0.505 loss_adv1 = 3.441, loss_adv2 = 3.293 loss_D1 = 0.126 loss_D2 = 0.163
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6325/  250000, loss_seg1 = 0.484 loss_seg2 = 0.202 loss_adv1 = 2.610, loss_adv2 = 1.569 loss_D1 = 0.343 loss_D2 = 0.502
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6326/  250000, loss_seg1 = 0.205 loss_seg2 = 0.152 loss_adv1 = 1.737, loss_adv2 = 2.725 loss_D1 = 0.618 loss_D2 = 0.273
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6327/  250000, loss_seg1 = 0.769 loss_seg2 = 0.567 loss_adv1 = 2.403, loss_adv2 = 3.321 loss_D1 = 0.332 loss_D2 = 0.285
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6328/  250000, loss_seg1 = 0.319 loss_seg2 = 0.221 loss_adv1 = 2.036, loss_adv2 = 2.537 loss_D1 = 0.459 loss_D2 = 0.408
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6329/  250000, loss_seg1 = 0.217 loss_seg2 = 0.174 loss_adv1 = 3.352, loss_adv2 = 2.655 loss_D1 = 0.129 loss_D2 = 0.275
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6330/  250000, loss_seg1 = 0.174 loss_seg2 = 0.122 loss_adv1 = 3.121, loss_adv2 = 1.780 loss_D1 = 0.263 loss_D2 = 0.415
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6331/  250000, loss_seg1 = 0.478 loss_seg2 = 0.164 loss_adv1 = 3.172, loss_adv2 = 2.350 loss_D1 = 0.243 loss_D2 = 0.375
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6332/  250000, loss_seg1 = 0.568 loss_seg2 = 0.416 loss_adv1 = 2.689, loss_adv2 = 1.971 loss_D1 = 0.361 loss_D2 = 0.423
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6333/  250000, loss_seg1 = 0.199 loss_seg2 = 0.146 loss_adv1 = 5.082, loss_adv2 = 4.226 loss_D1 = 0.148 loss_D2 = 0.198
+exp = ./snapshots/gta2iitk_city_multi_pre
+iter =     6334/  250000, loss_seg1 = 0.233 loss_seg2 = 0.243 loss_adv1 = 3.616, loss_adv2 = 2.472 loss_D1 = 0.456 loss_D2 = 0.506
