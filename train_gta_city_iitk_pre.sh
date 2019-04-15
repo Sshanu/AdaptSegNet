@@ -1,0 +1,3 @@
+# CUDA_VISIBLE_DEVICES=0 python train_cityscapes2iitk_multi.py --snapshot-dir ./snapshots/Cityscapes2IITK_multi --lambda-seg 0.1 --restore-from ./model/GTA2Cityscapes_multi-ed35151c.pth --lambda-adv-target1 0.0002 --lambda-adv-target2 0.001
+
+CUDA_VISIBLE_DEVICES=0 python train_gta2iitk_city_multi_pre.py --snapshot-dir ./snapshots/gta2iitk_city_multi_pre --lambda-seg 0.1 --lambda-adv-target1 0.0002 --lambda-adv-target2 0.001
